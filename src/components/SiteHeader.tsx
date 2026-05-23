@@ -26,10 +26,11 @@ export function SiteHeader() {
             </Link>
           ))}
           <a
-            href="#"
-            aria-disabled="true"
-            className="rounded border border-[color:var(--color-rule)] px-2.5 py-1 text-xs text-[color:var(--color-ink-muted)]"
-            title="ลิงก์เครื่องคำนวณโดส (เร็วๆ นี้)"
+            href="https://cal.pepja.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="rounded border border-[color:var(--color-rule)] px-2.5 py-1 text-xs text-[color:var(--color-ink-muted)] transition-colors hover:text-[color:var(--color-ink)]"
+            title="เครื่องคำนวณโดส"
           >
             คำนวณโดส
           </a>
