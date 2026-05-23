@@ -1,0 +1,184 @@
+# Testing 101 :: Stairway to Gray
+
+URL: https://www.stairwaytogray.com/posts/testing/testing-101/
+
+Testing 101 :: Stairway to Gray
+Skip to main content
+Stairway to Gray
+Menu â¾
+Posts
+Gray 101
+Testing 101
+Crypto 101
+Pens 101
+Posts
+Gray 101
+Testing 101
+Show more â¾
+Crypto 101
+Pens 101
+Testing 101
+2026-04-09
+seeker-seventy-six and the mods
+10 min read (1937 words)
+Table of Contents
+What is Testing?
+What is Group Testing?
+What Tests Do I Order?
+Which Lab Should I Use?
+How Do I Read My Test Results?
+Share Your 3P Test Results
+What is Testing?
+⌗
+Testing is the process of analyzing a product to ensure it meets specific standards of quality, composition, and amount. By employing techniques such as mass spectrometry (MS), nuclear magnetic resonance (NMR), or High Performance Liquid Chromatography (HPLC), testing provides critical data that builds trust in the productâs safety and reliability.
+Third-party (3P)
+testing is crucial because vendor
+Certificates of Analysis (COAs)
+can be subject to bias and may not always provide an accurate representation of the product. Independent testing ensures you receive the correct product and the proper quantity of the
+active pharmaceutical ingredient (API)
+.
+What is Group Testing?
+⌗
+Group testing is a strategy in which multiple vials from the same batch are tested collectively to provide a clearer picture of the overall quality of the batch, and to share the cost of testing your product. Statistically, testing multiple samples offers a more accurate estimate of important metrics like the average active pharmaceutical ingredient (API) content per vial. For instance, if one vial tests 5% underfilled, it doesnât necessarily reflect the entire batchâs quality, as other vials may test closer to or even above the expected fill. Pooling resources from individuals with the same batch of orders enables broader testing, reducing individual costs while providing batch-wide insights into key factors like purity and API mass (mass in mg).
+Groups may decide to keep results private for a few weeks to incentivize cost-sharing, or share immediately, or not share at all. This is up to the group! We like to keep in mind aggregated data on vendors helps the whole community though, too!
+If you decide to share your test results with the community, please post the PDF or image of your test results in the
+Test Results - No Discussion
+channel so that TirzHelpBot can add it to the
+Test Data spreadsheet
+What Tests Do I Order?
+⌗
+ð§ª Every Order
+⌗
+We test every order for purity and mass (mass of API in mg) to confirm the correct peptide and amount were shipped, and to ensure the product hasnât significantly degraded. Endotoxins should also be regularly tested, as endotoxins can’t be removed after manufacturing by filtering. These types of issues â wrong peptide, incorrect dosing, peptide degradation â have occurred with every vendor at some point, often due to inadequate or missing quality control before shipping, issues with raws or poor finishing.
+HPLC for Purity and Mass:
+High-performance liquid chromatography (HPLC) ensures the expected peptide is present and quantifies the mass of the active pharmaceutical ingredient (API) per vial. Purity measures the quality of peptide synthesis, indicating a stable peptide with minimal
+deamidation
+. The mass confirms that the advertised quantity of peptide is actually delivered in the vial, ensuring the kit meets specified dosage (e.g. 30mg tirzepatide). Ensure your order includes the raw data to enable test results validation. For more information on exactly what purity means in the peptide gray market,
+read this guide.
+LAL for Endotoxins:
+Endotoxins, primarily lipopolysaccharides (LPS), are byproducts of bacterial growth cycles and a major component of gram-negative bacterial membranes. While endotoxins are unlikely to form during solid-phase peptide synthesis (SPPS), the method used for tirzepatide, vendors rarely disclose manufacturing processes or standards. Limulus Amebocyte Lysate (LAL) testing ensures acceptable endotoxin levels. Unlike bacteria, Endotoxins can’t be removed by filtering.
+ð Periodically
+⌗
+There are some tests we might want to do periodically to monitor vendor peptide quality over time. Things like testing which salt forms are being used and sold, or how well residual solvents are being removed from the peptide product. Check the
+Test Data spreadsheet
+first to see if any recent tests in the categories below have been done for your vendor.
+NMR F-19 for Trifluoroacetic Acid (TFA):
+Trifluoroacetic Acid, TFA, is an organic residual solvent commonly used in peptide synthesis, may also appear as a
+counterion salt
+in the final product due to its lower manufacturing cost than using sodium or acetate counterions. For lifelong, weekly injections like tirzepatide, the TFA salt form is undesirable. To safeguard against vendors switching to this non-ideal form, periodic NMR F-19 testing is conducted to detect TFA content. For more details on TFA, see
+Residual Solvents
+Heavy Metals:
+Heavy metals like arsenic (As), cadmium (Cd), lead (Pb), and mercury (Hg) are not involved in synthetic peptide manufacturing, so are not a significant concern. Periodic testing helps confirm their absence. Since there is no “safe” level of heavy metals in peptides, periodic monitoring provides an additional layer of safety.
+ð¤· Not Necessary
+⌗
+Sterility:
+Sterility testing, conducted under USP <71> standard, ensures that pharmaceutical products are free from active bacterial and fungal contamination. This test involves incubating samples in growth media to detect any microbial presence for a couple weeks. Many vendors may fail sterility tests due to contamination during manufacturing or handling. However, this risk can be easily mitigated by using
+0.22 Î¼m polyethersulfone (PES) filters
+during reconstitution, which effectively remove bacteria and insoluable particulates, and ensuring all supplies used are sterile. Following these aseptic techniques drastically helps to mitigate bacterial growth. Bacteria growth while lyophilized vials are stored in the freezer is not a significant concern.
+GC-FID for Residual Solvents:
+Class 2 solvents commonly used in
+SPPS
+â like DCM, DCA, DMF, ACN, and NMP â pose low health risks and are typically removed during proper lyophilization. Class 1 solvents (Benzene, Carbon tetrachloride, Dichloroethane, Dichloroethene, Trichloroethane) are not known to be used in SPPS and all have boiling points under 85Â°C, making them highly volatile and therefore highly unlikely to persist post-lyophilization â especially after multiple vacuum drying cycles as proper lyophilization requires.
+source
+Because of this, routine USP <467> testing for residual solvents is not considered necessary. Instead, we suggest occasional spot testing of Class 1 solvents in the gray market by focusing on
+TFA detection via NMR F-19
+as a practical proxy for detecting residual solvent removal. If TFA is absent, it’s also highly likely that Class 1 solvents are not present as residuals.
+See
+Residual Solvents
+for more detail.
+Which Lab Should I Use?
+⌗
+There are many domestic labs who can run HPLC, NMR, and more, including university labs. The following are some trusted lab testing options - domestic and international.
+Lab
+Location
+Shipping from US
+HPLC
+NMR F-19
+Endotoxin
+Heavy Metals
+Janoshik
+EU
+$50-80
+$300
+$120
+$120
+$60
+PeptideTest
+US
+<$10
+$300
+$250
+NumegaLab
+US
+<$10
+$71
+How Do I Read My Test Results?
+⌗
+HPLC
+⌗
+We’re looking for..
+a
+purity
+value of 98%+
+a
+mass
+within Â±10% of expected mass (typically mg)
+USP <905>
+and
+FDA registered API manufacturer COAs
+High-Performance Liquid Chromatography (HPLC) measures how well a peptide like tirzepatide was synthesized and how stable it remains â essentially assessing purity accounting for degradation. We use >98% purity as the benchmark, aligning with FDA-regulated 503a/b compounding standards. HPLC also measures API mass â how much peptide is actually in the vial. A Â±10% range is our standard for mass, reflecting what many vendors guarantee. USP <905> allows Â±15% batch variance, with no individual unit exceeding Â±25% from the target.
+HPLC is calibrated to detect a specific peptide, and if the expected peptide is absent, the test will show no “peak” in the resulting data. This detection is benchmarked against reference sample runs using the target peptide
+reference sample CAS
+.
+Once a peak is identified at a specific retention time (RT), its Area Under the Curve (AUC) is calculated to measure the peptide’s purity and mass. The main peak should appear at a predictable time, and any smaller, nearby peaks in the chromatogram are also analyzed. These smaller peaks often indicate degraded peptides (a.k.a.
+deamidation
+) or other similarly sized compound to the peptide (i.e. other synthetic peptides or polysaccharides), and are generally included in the AUC calculation to provide a final purity value.
+Labs may vary in their approach to integrating smaller peaks into the purity calculation. Degraded peptides are typically included, while “unidentified fillers” might be excluded or noted separately. Known fillers such as mannitol, a stabilizing sugar added for lyophilization, are not included in the AUC calculations used to calculate purity. Requesting raw data is crucial for transparency, as it allows you to understand how the final purity value was determined and often can easily explain the purity % differences between labs.
+For instance, the main peak for retatrutide was measured with an AUC of 648.220, alongside smaller peak AUCs of 37.642, 10.782, and 8.219. PeptideTest included two of these smaller peaks (37.642 and 10.782) as “unknown filler” into their AUC calculation, while Janoshik did not. Adjusting for this discrepancy, PeptideTestâs calculated purity becomes 648.220 Ã· 656.439 = 98.75%, aligning with an acceptable margin of error between the two tests on the same retatrutide batch.
+PeptideTests Retatrutide HPLC
+Janoshik Retatrutide HPLC
+NMR F-19
+⌗
+We’re looking for..
+a blank spectra chart with no peaks around -73 to -76ppm
+F-19 NMR reference standards
+Nuclear Magnetic Resonance (NMR) spectroscopy using fluorine-19 (F-19) is used to detect and quantify trifluoroacetic acid (TFA) in peptide samples. Since TFA contains three fluorine atoms, it produces a distinct and highly sensitive signal in NMR F-19 at around 76ppm. This method is ideal for identifying presence of both residual and counterion TFA.
+Endotoxin
+⌗
+We’re looking for..
+<10 EU/mg
+FDA registered API manufacturer COAs
+and
+FDA guidance
+The endotoxin test using the LAL (Limulus Amebocyte Lysate) assay, detects lipopolysaccharides (LPS), which are toxic components of bacterial cell walls. A positive result indicates the presence of endotoxins, measured in Endotoxin Units (EU). For injectable tirzepatide, regulatory guidelines for FDA regulated 503a/b pharmacies sourcing their API tirzepatide are <10 EU/mg of API. There is also a USP set for 5 EU/kg body weight/hour that we could calculate, but this is for all sources of endo encountered in a time period, so we recommend the simplicity of using the 10EU/mg standard set for regulated tirzepatide instead
+source
+Janoshik reports endotoxin by EU inthe entire vial, so we will need to first convert to EU/mg. X is the reported EU and Y is the API mass in mg. For example:
+EU/mg = X EU Ã· Y mg vial
+Example:
+If the vial tested contains 30mg API and the test resulted in 6 EU, then
+EU/mg = 6EU Ã· 30mg = 0.2EU/mg, which is lower than the 10EU/mg limit
+Generally, endotoxin test results are reported in EU/mL by Peptide Test (TrustPointe) so we will need to first convert to EU/mg using the known solution concentration the lab used to run the test. TrustPointe uses 2mL to dissolve the sample. X is the reported value, and Y is the API mass in mg of the vial. For example:
+EU/mg = X EU/mL Ã· Y mg/2mL
+Example:
+If the vial tested contains 30mg API and the test resulted in 8EU/mL, then:
+EU/mg = 8EU/mL Ã· 30mg/2mL = 0.5EU/mg, which is lower than the 10EU/mg limit
+Share Your 3P Test Results
+⌗
+We love test data! If you decide to share your test results with the community, please post the PDF or image of your test results in the
+Test Results - No Discussion
+channel so that TirzHelpBot can add it to the
+Test Data spreadsheet
+. If the vendor name or batch identifying info is not explicitly included in the test result, you can type out a caption to include with the upload and TirzHelpBot can use the additional info when processing the test result for the spreadsheet.
+If you have any questions, concerns, or feedback about the information or sources provided, please don’t hesitate to reach out to @seekerseventysix on Telegram. If you’re looking for access to the Telegram group, please click the Discord invite in the footer of this page
+Read other posts
+Crypto 101 for Gray Market Purchases
+â
+^
+Â© 2026 Powered by
+Hugo
+::
+Join STG on Telegram
+::
+Join STG on Loqa
+::
+Join STG Testing Server on Loqa

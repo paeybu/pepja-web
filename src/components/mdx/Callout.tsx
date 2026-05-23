@@ -10,8 +10,8 @@ const LABELS: Record<Variant, string> = {
 
 const TONE: Record<Variant, string> = {
   important: "border-[color:var(--color-accent)] bg-[color:var(--color-paper-muted)]",
-  warning: "border-amber-500 bg-amber-50",
-  tip: "border-sky-500 bg-sky-50",
+  warning: "border-amber-500 bg-amber-500/10",
+  tip: "border-sky-500 bg-sky-500/10",
 };
 
 export function Callout({

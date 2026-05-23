@@ -1,0 +1,259 @@
+{
+  "target_url": "https://www.stairwaytogray.com/posts/testing/testing-101/",
+  "fetched_url": "https://www.stairwaytogray.com/posts/testing/testing-101/",
+  "final_url": "https://www.stairwaytogray.com/posts/testing/testing-101/",
+  "status_code": 200,
+  "content_type": "text/html",
+  "fetched_at": "2026-05-23T14:00:00Z",
+  "depth": 1,
+  "seed_url": "https://www.stairwaytogray.com/",
+  "title": "Testing 101 :: Stairway to Gray",
+  "description": "How to order and read lab test results for peptides",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Testing 101"
+    },
+    {
+      "level": 2,
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "text": "What is Testing? ⌗"
+    },
+    {
+      "level": 2,
+      "text": "What is Group Testing? ⌗"
+    },
+    {
+      "level": 2,
+      "text": "What Tests Do I Order? ⌗"
+    },
+    {
+      "level": 2,
+      "text": "Which Lab Should I Use? ⌗"
+    },
+    {
+      "level": 2,
+      "text": "How Do I Read My Test Results? ⌗"
+    },
+    {
+      "level": 2,
+      "text": "Share Your 3P Test Results ⌗"
+    },
+    {
+      "level": 3,
+      "text": "ð§ª Every Order ⌗"
+    },
+    {
+      "level": 3,
+      "text": "ð Periodically ⌗"
+    },
+    {
+      "level": 3,
+      "text": "ð¤· Not Necessary ⌗"
+    },
+    {
+      "level": 3,
+      "text": "HPLC ⌗"
+    },
+    {
+      "level": 3,
+      "text": "NMR F-19 ⌗"
+    },
+    {
+      "level": 3,
+      "text": "Endotoxin ⌗"
+    }
+  ],
+  "text": "Testing 101 :: Stairway to Gray\nSkip to main content\nStairway to Gray\nMenu â¾\nPosts\nGray 101\nTesting 101\nCrypto 101\nPens 101\nPosts\nGray 101\nTesting 101\nShow more â¾\nCrypto 101\nPens 101\nTesting 101\n2026-04-09\nseeker-seventy-six and the mods\n10 min read (1937 words)\nTable of Contents\nWhat is Testing?\nWhat is Group Testing?\nWhat Tests Do I Order?\nWhich Lab Should I Use?\nHow Do I Read My Test Results?\nShare Your 3P Test Results\nWhat is Testing?\n⌗\nTesting is the process of analyzing a product to ensure it meets specific standards of quality, composition, and amount. By employing techniques such as mass spectrometry (MS), nuclear magnetic resonance (NMR), or High Performance Liquid Chromatography (HPLC), testing provides critical data that builds trust in the productâs safety and reliability.\nThird-party (3P)\ntesting is crucial because vendor\nCertificates of Analysis (COAs)\ncan be subject to bias and may not always provide an accurate representation of the product. Independent testing ensures you receive the correct product and the proper quantity of the\nactive pharmaceutical ingredient (API)\n.\nWhat is Group Testing?\n⌗\nGroup testing is a strategy in which multiple vials from the same batch are tested collectively to provide a clearer picture of the overall quality of the batch, and to share the cost of testing your product. Statistically, testing multiple samples offers a more accurate estimate of important metrics like the average active pharmaceutical ingredient (API) content per vial. For instance, if one vial tests 5% underfilled, it doesnât necessarily reflect the entire batchâs quality, as other vials may test closer to or even above the expected fill. Pooling resources from individuals with the same batch of orders enables broader testing, reducing individual costs while providing batch-wide insights into key factors like purity and API mass (mass in mg).\nGroups may decide to keep results private for a few weeks to incentivize cost-sharing, or share immediately, or not share at all. This is up to the group! We like to keep in mind aggregated data on vendors helps the whole community though, too!\nIf you decide to share your test results with the community, please post the PDF or image of your test results in the\nTest Results - No Discussion\nchannel so that TirzHelpBot can add it to the\nTest Data spreadsheet\nWhat Tests Do I Order?\n⌗\nð§ª Every Order\n⌗\nWe test every order for purity and mass (mass of API in mg) to confirm the correct peptide and amount were shipped, and to ensure the product hasnât significantly degraded. Endotoxins should also be regularly tested, as endotoxins can’t be removed after manufacturing by filtering. These types of issues â wrong peptide, incorrect dosing, peptide degradation â have occurred with every vendor at some point, often due to inadequate or missing quality control before shipping, issues with raws or poor finishing.\nHPLC for Purity and Mass:\nHigh-performance liquid chromatography (HPLC) ensures the expected peptide is present and quantifies the mass of the active pharmaceutical ingredient (API) per vial. Purity measures the quality of peptide synthesis, indicating a stable peptide with minimal\ndeamidation\n. The mass confirms that the advertised quantity of peptide is actually delivered in the vial, ensuring the kit meets specified dosage (e.g. 30mg tirzepatide). Ensure your order includes the raw data to enable test results validation. For more information on exactly what purity means in the peptide gray market,\nread this guide.\nLAL for Endotoxins:\nEndotoxins, primarily lipopolysaccharides (LPS), are byproducts of bacterial growth cycles and a major component of gram-negative bacterial membranes. While endotoxins are unlikely to form during solid-phase peptide synthesis (SPPS), the method used for tirzepatide, vendors rarely disclose manufacturing processes or standards. Limulus Amebocyte Lysate (LAL) testing ensures acceptable endotoxin levels. Unlike bacteria, Endotoxins can’t be removed by filtering.\nð Periodically\n⌗\nThere are some tests we might want to do periodically to monitor vendor peptide quality over time. Things like testing which salt forms are being used and sold, or how well residual solvents are being removed from the peptide product. Check the\nTest Data spreadsheet\nfirst to see if any recent tests in the categories below have been done for your vendor.\nNMR F-19 for Trifluoroacetic Acid (TFA):\nTrifluoroacetic Acid, TFA, is an organic residual solvent commonly used in peptide synthesis, may also appear as a\ncounterion salt\nin the final product due to its lower manufacturing cost than using sodium or acetate counterions. For lifelong, weekly injections like tirzepatide, the TFA salt form is undesirable. To safeguard against vendors switching to this non-ideal form, periodic NMR F-19 testing is conducted to detect TFA content. For more details on TFA, see\nResidual Solvents\nHeavy Metals:\nHeavy metals like arsenic (As), cadmium (Cd), lead (Pb), and mercury (Hg) are not involved in synthetic peptide manufacturing, so are not a significant concern. Periodic testing helps confirm their absence. Since there is no “safe” level of heavy metals in peptides, periodic monitoring provides an additional layer of safety.\nð¤· Not Necessary\n⌗\nSterility:\nSterility testing, conducted under USP <71> standard, ensures that pharmaceutical products are free from active bacterial and fungal contamination. This test involves incubating samples in growth media to detect any microbial presence for a couple weeks. Many vendors may fail sterility tests due to contamination during manufacturing or handling. However, this risk can be easily mitigated by using\n0.22 Î¼m polyethersulfone (PES) filters\nduring reconstitution, which effectively remove bacteria and insoluable particulates, and ensuring all supplies used are sterile. Following these aseptic techniques drastically helps to mitigate bacterial growth. Bacteria growth while lyophilized vials are stored in the freezer is not a significant concern.\nGC-FID for Residual Solvents:\nClass 2 solvents commonly used in\nSPPS\nâ like DCM, DCA, DMF, ACN, and NMP â pose low health risks and are typically removed during proper lyophilization. Class 1 solvents (Benzene, Carbon tetrachloride, Dichloroethane, Dichloroethene, Trichloroethane) are not known to be used in SPPS and all have boiling points under 85Â°C, making them highly volatile and therefore highly unlikely to persist post-lyophilization â especially after multiple vacuum drying cycles as proper lyophilization requires.\nsource\nBecause of this, routine USP <467> testing for residual solvents is not considered necessary. Instead, we suggest occasional spot testing of Class 1 solvents in the gray market by focusing on\nTFA detection via NMR F-19\nas a practical proxy for detecting residual solvent removal. If TFA is absent, it’s also highly likely that Class 1 solvents are not present as residuals.\nSee\nResidual Solvents\nfor more detail.\nWhich Lab Should I Use?\n⌗\nThere are many domestic labs who can run HPLC, NMR, and more, including university labs. The following are some trusted lab testing options - domestic and international.\nLab\nLocation\nShipping from US\nHPLC\nNMR F-19\nEndotoxin\nHeavy Metals\nJanoshik\nEU\n$50-80\n$300\n$120\n$120\n$60\nPeptideTest\nUS\n<$10\n$300\n$250\nNumegaLab\nUS\n<$10\n$71\nHow Do I Read My Test Results?\n⌗\nHPLC\n⌗\nWe’re looking for..\na\npurity\nvalue of 98%+\na\nmass\nwithin Â±10% of expected mass (typically mg)\nUSP <905>\nand\nFDA registered API manufacturer COAs\nHigh-Performance Liquid Chromatography (HPLC) measures how well a peptide like tirzepatide was synthesized and how stable it remains â essentially assessing purity accounting for degradation. We use >98% purity as the benchmark, aligning with FDA-regulated 503a/b compounding standards. HPLC also measures API mass â how much peptide is actually in the vial. A Â±10% range is our standard for mass, reflecting what many vendors guarantee. USP <905> allows Â±15% batch variance, with no individual unit exceeding Â±25% from the target.\nHPLC is calibrated to detect a specific peptide, and if the expected peptide is absent, the test will show no “peak” in the resulting data. This detection is benchmarked against reference sample runs using the target peptide\nreference sample CAS\n.\nOnce a peak is identified at a specific retention time (RT), its Area Under the Curve (AUC) is calculated to measure the peptide’s purity and mass. The main peak should appear at a predictable time, and any smaller, nearby peaks in the chromatogram are also analyzed. These smaller peaks often indicate degraded peptides (a.k.a.\ndeamidation\n) or other similarly sized compound to the peptide (i.e. other synthetic peptides or polysaccharides), and are generally included in the AUC calculation to provide a final purity value.\nLabs may vary in their approach to integrating smaller peaks into the purity calculation. Degraded peptides are typically included, while “unidentified fillers” might be excluded or noted separately. Known fillers such as mannitol, a stabilizing sugar added for lyophilization, are not included in the AUC calculations used to calculate purity. Requesting raw data is crucial for transparency, as it allows you to understand how the final purity value was determined and often can easily explain the purity % differences between labs.\nFor instance, the main peak for retatrutide was measured with an AUC of 648.220, alongside smaller peak AUCs of 37.642, 10.782, and 8.219. PeptideTest included two of these smaller peaks (37.642 and 10.782) as “unknown filler” into their AUC calculation, while Janoshik did not. Adjusting for this discrepancy, PeptideTestâs calculated purity becomes 648.220 Ã· 656.439 = 98.75%, aligning with an acceptable margin of error between the two tests on the same retatrutide batch.\nPeptideTests Retatrutide HPLC\nJanoshik Retatrutide HPLC\nNMR F-19\n⌗\nWe’re looking for..\na blank spectra chart with no peaks around -73 to -76ppm\nF-19 NMR reference standards\nNuclear Magnetic Resonance (NMR) spectroscopy using fluorine-19 (F-19) is used to detect and quantify trifluoroacetic acid (TFA) in peptide samples. Since TFA contains three fluorine atoms, it produces a distinct and highly sensitive signal in NMR F-19 at around 76ppm. This method is ideal for identifying presence of both residual and counterion TFA.\nEndotoxin\n⌗\nWe’re looking for..\n<10 EU/mg\nFDA registered API manufacturer COAs\nand\nFDA guidance\nThe endotoxin test using the LAL (Limulus Amebocyte Lysate) assay, detects lipopolysaccharides (LPS), which are toxic components of bacterial cell walls. A positive result indicates the presence of endotoxins, measured in Endotoxin Units (EU). For injectable tirzepatide, regulatory guidelines for FDA regulated 503a/b pharmacies sourcing their API tirzepatide are <10 EU/mg of API. There is also a USP set for 5 EU/kg body weight/hour that we could calculate, but this is for all sources of endo encountered in a time period, so we recommend the simplicity of using the 10EU/mg standard set for regulated tirzepatide instead\nsource\nJanoshik reports endotoxin by EU inthe entire vial, so we will need to first convert to EU/mg. X is the reported EU and Y is the API mass in mg. For example:\nEU/mg = X EU Ã· Y mg vial\nExample:\nIf the vial tested contains 30mg API and the test resulted in 6 EU, then\nEU/mg = 6EU Ã· 30mg = 0.2EU/mg, which is lower than the 10EU/mg limit\nGenerally, endotoxin test results are reported in EU/mL by Peptide Test (TrustPointe) so we will need to first convert to EU/mg using the known solution concentration the lab used to run the test. TrustPointe uses 2mL to dissolve the sample. X is the reported value, and Y is the API mass in mg of the vial. For example:\nEU/mg = X EU/mL Ã· Y mg/2mL\nExample:\nIf the vial tested contains 30mg API and the test resulted in 8EU/mL, then:\nEU/mg = 8EU/mL Ã· 30mg/2mL = 0.5EU/mg, which is lower than the 10EU/mg limit\nShare Your 3P Test Results\n⌗\nWe love test data! If you decide to share your test results with the community, please post the PDF or image of your test results in the\nTest Results - No Discussion\nchannel so that TirzHelpBot can add it to the\nTest Data spreadsheet\n. If the vendor name or batch identifying info is not explicitly included in the test result, you can type out a caption to include with the upload and TirzHelpBot can use the additional info when processing the test result for the spreadsheet.\nIf you have any questions, concerns, or feedback about the information or sources provided, please don’t hesitate to reach out to @seekerseventysix on Telegram. If you’re looking for access to the Telegram group, please click the Discord invite in the footer of this page\nRead other posts\nCrypto 101 for Gray Market Purchases\nâ\n^\nÂ© 2026 Powered by\nHugo\n::\nJoin STG on Telegram\n::\nJoin STG on Loqa\n::\nJoin STG Testing Server on Loqa",
+  "links": [
+    {
+      "href": "https://www.stairwaytogray.com/",
+      "text": "Stairway to Gray"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/",
+      "text": "Posts"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/tirzepatide-101/",
+      "text": "Gray 101"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/testing/testing-101/",
+      "text": "Testing 101"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/crypto/crypto-101/",
+      "text": "Crypto 101"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/pens/pens-101/",
+      "text": "Pens 101"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/",
+      "text": "Posts"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/tirzepatide-101/",
+      "text": "Gray 101"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/testing/testing-101/",
+      "text": "Testing 101"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/crypto/crypto-101/",
+      "text": "Crypto 101"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/pens/pens-101/",
+      "text": "Pens 101"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/testing/testing-101/",
+      "text": "Testing 101"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/dictionary/#third-party-testing-3p",
+      "text": "Third-party (3P)"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/dictionary/#coa",
+      "text": "Certificates of Analysis (COAs)"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/dictionary/#api",
+      "text": "active pharmaceutical ingredient (API)"
+    },
+    {
+      "href": "https://t.me/c/3587078798/33/82524",
+      "text": "Test Data spreadsheet"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/dictionary/#deamidation",
+      "text": "deamidation"
+    },
+    {
+      "href": "https://trustpointeanalytics.com/blogs/trustpointe-blog/on-peptide-purity",
+      "text": "read this guide."
+    },
+    {
+      "href": "https://t.me/c/2410577414/48/5760",
+      "text": "Test Data spreadsheet"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/dictionary/#counterion",
+      "text": "counterion salt"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/testing/residual-solvents/",
+      "text": "Residual Solvents"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/dictionary/#spps",
+      "text": "SPPS"
+    },
+    {
+      "href": "https://database.ich.org/sites/default/files/ICH_Q3C-R8_Guideline_Step4_2021_0422_1.pdf",
+      "text": "source"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/testing/residual-solvents/",
+      "text": "Residual Solvents"
+    },
+    {
+      "href": "https://janoshik.com/",
+      "text": "Janoshik"
+    },
+    {
+      "href": "https://peptidetest.com/collections/order-testing",
+      "text": "PeptideTest"
+    },
+    {
+      "href": "https://numegalabs.com/",
+      "text": "NumegaLab"
+    },
+    {
+      "href": "https://www.usp.org/sites/default/files/usp/document/harmonization/excipients/m99694.pdf",
+      "text": "USP <905>"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/compounding/imgs/genohope-500g-tirz-1.png",
+      "text": "FDA registered API manufacturer COAs"
+    },
+    {
+      "href": "https://trustpointeanalytics.com/peptide-reference-standards/",
+      "text": "reference sample CAS"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/dictionary/#deamidation",
+      "text": "deamidation"
+    },
+    {
+      "href": "https://www.colorado.edu/lab/nmr/sites/default/files/attached-files/19f_nmr_reference_standards_0.pdf",
+      "text": "F-19 NMR reference standards"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/compounding/imgs/genohope-500g-tirz-1.png",
+      "text": "FDA registered API manufacturer COAs"
+    },
+    {
+      "href": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/inspection-technical-guides/bacterial-endotoxinspyrogens",
+      "text": "FDA guidance"
+    },
+    {
+      "href": "https://www.fda.gov/media/183132/download",
+      "text": "source"
+    },
+    {
+      "href": "https://t.me/c/3587078798/33/82524",
+      "text": "Test Data spreadsheet"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/crypto/crypto-101/",
+      "text": "Crypto 101 for Gray Market Purchases â"
+    },
+    {
+      "href": "https://gohugo.io",
+      "text": "Hugo"
+    },
+    {
+      "href": "https://t.me/+x3-r23zfNNNiYmMx",
+      "text": "Join STG on Telegram"
+    },
+    {
+      "href": "https://app.loqa.chat/join/cc1dfbe1",
+      "text": "Join STG on Loqa"
+    },
+    {
+      "href": "https://app.loqa.chat/join/f06a1ab3",
+      "text": "Join STG Testing Server on Loqa"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.stairwaytogray.com/static/headers/cells-header-1.jpg",
+      "alt": "Random Header"
+    },
+    {
+      "src": "https://www.stairwaytogray.com/posts/testing/imgs/auc-calcs.jpg",
+      "alt": "AUC calculations"
+    },
+    {
+      "src": "https://www.stairwaytogray.com/posts/testing/imgs/pt-impurities.jpg",
+      "alt": "PT HPLC"
+    },
+    {
+      "src": "https://www.stairwaytogray.com/posts/testing/imgs/janoshik-impurities.jpg",
+      "alt": "Jano HPLC"
+    },
+    {
+      "src": "https://www.stairwaytogray.com/posts/testing/imgs/no-tfa-nmr-f-19.jpg",
+      "alt": "No TFA NMR"
+    }
+  ]
+}

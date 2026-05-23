@@ -1,0 +1,171 @@
+{
+  "target_url": "https://www.stairwaytogray.com/posts/crypto/crypto-101/",
+  "fetched_url": "https://www.stairwaytogray.com/posts/crypto/crypto-101/",
+  "final_url": "https://www.stairwaytogray.com/posts/crypto/crypto-101/",
+  "status_code": 200,
+  "content_type": "text/html",
+  "fetched_at": "2026-05-23T14:00:03Z",
+  "depth": 1,
+  "seed_url": "https://www.stairwaytogray.com/",
+  "title": "Crypto 101 for Gray Market Purchases :: Stairway to Gray",
+  "description": "The absolute basics for making crypto purchases in the gray market",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Crypto 101 for Gray Market Purchases"
+    },
+    {
+      "level": 2,
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "text": "Overview: Stablecoins vs Regular Crypto Coins ⌗"
+    },
+    {
+      "level": 2,
+      "text": "Before You Start ⌗"
+    },
+    {
+      "level": 2,
+      "text": "Step-by-Step: Buying SOL & Swapping Stablecoin Using Exodus Wallet ⌗"
+    },
+    {
+      "level": 2,
+      "text": "Tips & Final Warnings ⌗"
+    },
+    {
+      "level": 3,
+      "text": "â ï¸ Why Network Matters (Solana vs Tron vs Ethereum) ⌗"
+    },
+    {
+      "level": 3,
+      "text": "ð§ Step 1: Install & Set Up Exodus ⌗"
+    },
+    {
+      "level": 3,
+      "text": "âï¸ Step 2: Enable Coins ⌗"
+    },
+    {
+      "level": 3,
+      "text": "ð³ Step 3: Buy SOL (Required for Swapping) ⌗"
+    },
+    {
+      "level": 3,
+      "text": "ð Step 4: Swap SOL to a stablecoin ⌗"
+    },
+    {
+      "level": 3,
+      "text": "ð¸ Step 5: Send Crypto to the Vendor ⌗"
+    },
+    {
+      "level": 3,
+      "text": "ð§¾ Step 6: Confirm with Vendor ⌗"
+    }
+  ],
+  "text": "Crypto 101 for Gray Market Purchases :: Stairway to Gray\nSkip to main content\nStairway to Gray\nMenu â¾\nPosts\nGray 101\nTesting 101\nCrypto 101\nPens 101\nPosts\nGray 101\nTesting 101\nShow more â¾\nCrypto 101\nPens 101\nCrypto 101 for Gray Market Purchases\n2025-05-25\nthe Mods\n5 min read (1053 words)\nTable of Contents\nOverview: Stablecoins vs Regular Crypto Coins\nBefore You Start\nStep-by-Step: Buying SOL & Swapping Stablecoin Using Exodus Wallet\nTips & Final Warnings\nOverview: Stablecoins vs Regular Crypto Coins\n⌗\nBefore diving in, itâs helpful to understand the difference between crypto coin types like Bitcoin or Solana, and stablecoins:\nBitcoin (BTC), Solana (SOL), etc.\nStablecoins (USDT, USDC, PYUSD, etc.)\nVolatile asset â price fluctuates rapidly\nTied to USD â 1 coin â $1 USD\nDesigned for long-term holding (âdigital goldâ)\nMeant for payments and transfers\nWidely accepted, but not ideal for stable-value purchases\nPreferred for predictable value\nFor research peptide purchases,\nstablecoins are preferred\nbecause they hold their value and settle quickly. Youâre not gambling on crypto value â just using it as a payment method.\nâ ï¸ Why Network Matters (Solana vs Tron vs Ethereum)\n⌗\nTether (USDT) and USD Coin (USDC) are not networks, they are stablecoins.\nStablecoins are issued on\nmany\ndifferent networks â each with their own wallet compatibility.\nFor example, USDT exists on networks:\nEthereum\nas\nUSDT/ETH\nor\nUSDT/ERC20\nTron\nas\nUSDT/TRX\nor\nUSDT/TRC20\nand others too\nand USDC exists on networks:\nSolana\nas\nUSDC/SOL\nEthereum\nas\nUSDC/ETH\nor\nUSDC/ERC20\nand others\nIf you send your crypto payment to the wrong network, you will lose it.\nExamples:\nSending\nUSDT/TRC20 (Tron)\nto a\nSolana wallet\n= ð¸ funds gone\nSending\nUSDT/SPL (Solana)\nto an\nEthereum address\n= ð¸ also gone\nAlways confirm with the vendor\n:\nThe\ncorrect currency\n(e.g. USDT, UDSC, SOL, etc.)\nThe\ncorrect network\n(e.g. “USDT on Tron” means TRC20/TRX, not Solana/SOL/SPL or Ethereum/ETH)\nThe\ncorrect wallet address\nfor THAT SPECIFIC NETWORK\nAlso double-check that your wallet (like Exodus) supports\nthat coin on that network\n.\nBefore You Start\n⌗\nð± Pick your wallet. This guide uses\nExodus wallet\n, available on mobile and desktop -\nexodus.com\n(because it’s a self-hosted wallet that doesn’t risk being shutdown like a custodial wallet with Coinbase).\nâ\nPick your payment coin\n: Most vendors accept\nUSDT (on Sol, Tron, or Ethereum)\n,\nPYUSD (on Sol)\n, or\nSOL itself\n.\nðª\nSOL is required\nfor transactions on Solana network â even if you’re sending USDT or PYUSD. Keep $5â10 in SOL for fees. This is also known as\ngas money\n.\nð\nBuy early\n: Your first crypto buy may trigger security holds. Plan ahead â ideally\n7+ days\nbefore your order.\nð¸\nTransfer modestly\n: Try funding your wallet in $100â200 chunks. Some users get flagged for larger transfers.\nð¥\nAlways verify\nwith your vendorâs community the\nexact wallet address AND network\nto send to.\nCrypto is non-refundable\nif you mess it up and send to the wrong wallet.\nðºï¸ If you are in WA, NY, or another state that limits crpyto purchases, you may need to use a VPN while using Exodus for Swaps.\nStep-by-Step: Buying SOL & Swapping Stablecoin Using Exodus Wallet\n⌗\nVideo Walkthrough: Steps 1 & 2\nð§ Step 1: Install & Set Up Exodus\n⌗\nDownload Exodus Wallet from\nexodus.com\nor your app store.\nFrom the home screen, tap the\nSettings âï¸\n.\nBack up your\n12-word recovery phrase\nâ do\nNOT\nskip this.\nEnable biometric or PIN security if you want.\nâï¸ Step 2: Enable Coins\n⌗\nFrom the home screen, tap\nAssets\n.\nEnable:\nâ\nSOL (Solana)\nâ\nUSDT (Solana)\n,\nUSDT (Tron)\n, or\nUSDT (Ethereum)\ndepending on vendor\nâ\nPYUSD (Solana)\nif you’re using that\nDisable unused assets for clarity.\nð³ Step 3: Buy SOL (Required for Swapping)\n⌗\nVideo Walkthrough: Step 3\nFrom the main screen, tap on\nSolana (SOL)\n.\nTap\nBuy\n.\nExodus will suggest an exchange partner (MoonPay, Ramp, etc.).\nYou can tap the\nprovider name\nto change it.\nChoose based on your payment method and ID verification preferences.\nEnter the purchase amount:\nIf you’re using stablecoin for your purchase you really only need <$10 for gas money, but there may be a minimum so just buy the minimum and you can always swap the extra later so that you’re keeping most of your funds in stablecoins.\nComplete the checkout:\nID verification is required.\nUse a debit card, Apple Pay, etc.\nWait a few minutes for funds to show in Exodus.\nð Step 4: Swap SOL to a stablecoin\n⌗\nYou don’t NEED to swap SOL into a stablecoin, but since SOL’s value is highly volatile it’s recommended to hold stablecoin to use as cash instead. Swap it all except for ~$10 (to use for gas fees) to ensure stability and access for short-term purchases.\nVideo Walkthrough: Step 4\nFrom the main screen, tap the\nSwap\nbutton or slide right on SOL coin and select\nSwap\n.\nSwap:\nFrom\n: SOL\nTo\n: USDT, USDC, or PYUSD\nNOTE: See which currency and network your vendor uses to avoid additional swaps. Swap to that stablecoin currency and network.\nEnter amount and confirm the swap is for the right currency (e.g. USDT) AND network (e.g. Ethereum/ETH). (Remember to leave ~$10 equivalent of SOL in your wallet to use for gas fees for future exchanges.)\nWait for confirmation. This is usually near-instant.\nð¸ Step 5: Send Crypto to the Vendor\n⌗\nVideo Walkthrough: Step 5\nTap the asset you’re sending (\nPYUSD/SOL\n,\nUSDT/SOL\n,\nUSDT/TRX\n,\nUSDC/SOL\n,\nUSDC/ETH\n, etc.)\nTap\nSend\n.\nPaste the\nvendor’s wallet address\nDouble-check the network\n(e.g., Solana â  Tron).\nConfirm it matches what the\nvendor and community mods\nsay.\nEnter the\nexact amount in the exact currency\nthe vendor confirmed.\nNOTE: 300 SOL â  $300 USD. Ensure you’re using the correct currency unit\nTap\nSend\n.\nâ ï¸\nImportant\n: You can’t ‘undo’ a crypto transaction. Triple-check:\nâ Wallet address (unique ID specific to a network) is the actual vendor’s wallet\nâ Network (SOL vs TRX vs ETH)\nâ Coin currency type (USDT vs USDC vs PYUSD vs SOL vs ETH)\nð§¾ Step 6: Confirm with Vendor\n⌗\nSend\nproof of payment\nif required (e.g., transaction ID link, screenshot).\nMost vendors will verify order once confirmed on-chain within 24 hours.\nTips & Final Warnings\n⌗\nEducate yourself beyond this guide â ask experienced community members in the\nCrypto\nchannel if you have questions.\nKeep\nscreenshots of your transaction\nand/or a\nlink to the blockchain confirmation\nin case the vendor asks.\nNever send crypto to\nunverified\nor unsolicited DM accounts.\nTreat your\nrecovery phrase\nlike your bank account password â if you lose it, you lose your funds.\nð¬Telegram Channel:\nCrypto\nIf you have any questions, concerns, or feedback about the information or sources provided, please don’t hesitate to reach out to @seekerseventysix on Telegram. If you’re looking for access to the Telegram group, please click the Discord invite in the footer of this page\nRead other posts\nâ\nTesting 101\nWhat to Look for in Lyophilized Peptides\nâ\n^\nÂ© 2026 Powered by\nHugo\n::\nJoin STG on Telegram\n::\nJoin STG on Loqa\n::\nJoin STG Testing Server on Loqa",
+  "links": [
+    {
+      "href": "https://www.stairwaytogray.com/",
+      "text": "Stairway to Gray"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/",
+      "text": "Posts"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/tirzepatide-101/",
+      "text": "Gray 101"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/testing/testing-101/",
+      "text": "Testing 101"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/crypto/crypto-101/",
+      "text": "Crypto 101"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/pens/pens-101/",
+      "text": "Pens 101"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/",
+      "text": "Posts"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/tirzepatide-101/",
+      "text": "Gray 101"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/testing/testing-101/",
+      "text": "Testing 101"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/crypto/crypto-101/",
+      "text": "Crypto 101"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/pens/pens-101/",
+      "text": "Pens 101"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/crypto/crypto-101/",
+      "text": "Crypto 101 for Gray Market Purchases"
+    },
+    {
+      "href": "https://www.exodus.com/",
+      "text": "exodus.com"
+    },
+    {
+      "href": "https://youtu.be/BG95BzTITT8?si=LPlzseiQ5034ABLj",
+      "text": "Video Walkthrough: Steps 1 & 2"
+    },
+    {
+      "href": "https://www.exodus.com",
+      "text": "exodus.com"
+    },
+    {
+      "href": "https://www.youtube.com/watch?v=Ssrfhd4SXgQ",
+      "text": "Video Walkthrough: Step 3"
+    },
+    {
+      "href": "https://www.youtube.com/watch?v=ZMTr0eqLTiM",
+      "text": "Video Walkthrough: Step 4"
+    },
+    {
+      "href": "https://youtu.be/0XvCFWDpEyQ?si=dVhotKU2MDwD3rRh&t=61",
+      "text": "Video Walkthrough: Step 5"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/testing/testing-101/",
+      "text": "â Testing 101"
+    },
+    {
+      "href": "https://www.stairwaytogray.com/posts/peptides/what-to-look-for-in-lyophilized-peptides/",
+      "text": "What to Look for in Lyophilized Peptides â"
+    },
+    {
+      "href": "https://gohugo.io",
+      "text": "Hugo"
+    },
+    {
+      "href": "https://t.me/+x3-r23zfNNNiYmMx",
+      "text": "Join STG on Telegram"
+    },
+    {
+      "href": "https://app.loqa.chat/join/cc1dfbe1",
+      "text": "Join STG on Loqa"
+    },
+    {
+      "href": "https://app.loqa.chat/join/f06a1ab3",
+      "text": "Join STG Testing Server on Loqa"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.stairwaytogray.com/static/headers/amino-header-5.jpg",
+      "alt": "Random Header"
+    }
+  ]
+}

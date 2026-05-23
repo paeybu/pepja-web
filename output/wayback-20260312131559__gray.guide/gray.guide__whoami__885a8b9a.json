@@ -1,0 +1,95 @@
+{
+  "target_url": "https://gray.guide/whoami",
+  "fetched_url": "https://web.archive.org/web/20260312131559id_/https://gray.guide/whoami",
+  "final_url": "https://web.archive.org/web/20260215130537id_/https://www.gray.guide/whoami",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-05-23T14:00:37Z",
+  "depth": 1,
+  "seed_url": "https://web.archive.org/web/20260312131559/https://gray.guide/",
+  "title": "About Me | Gray Guide",
+  "description": "Why Gray.Guide exists and why you might want to listen for a minute.",
+  "headings": [
+    {
+      "level": 1,
+      "text": "So, who's talking?"
+    },
+    {
+      "level": 2,
+      "text": "What I actually do ​"
+    },
+    {
+      "level": 2,
+      "text": "What we don't do ​"
+    },
+    {
+      "level": 2,
+      "text": "Why bother sharing? ​"
+    },
+    {
+      "level": 2,
+      "text": "Ground rules ​"
+    },
+    {
+      "level": 3,
+      "text": "Telegram"
+    },
+    {
+      "level": 3,
+      "text": "Reddit"
+    }
+  ],
+  "text": "About Me | Gray Guide\nSkip to main content\n📋 New:\nCommunity-Verified Vendors\ndirectory now available\nGray Guide\nSearch\nOn this page\nSo, who's talking?\nI'm the guy who looked at four-figure pharmacy quotes for GLP-1s and muttered, \"Nope, there's got to be another way.\"\nTwo years, three peptides, and a mountain of needle caps later, Gray.Guide is my pay-it-forward project.\nWhat I actually do\n​\nRoad-test the stuff.\nSemaglutide, tirzepatide, and other peptides—if it lives in the peptide family, chances are I've pinned it and logged the aftermath.\nRun the clubhouse.\nOur Telegram crew sits at ~250 members. Someone's always awake to walk a newcomer through dilution math or swap nausea hacks. You will not be left hanging.\nKeep vendors honest.\nTwo suppliers have shipped clean product to me (and plenty of others) for a solid year. If your order from them blows up, I'll step in and rattle cages.\nCall out the bad actors.\nSeparate scammers channel, bright red flags. We'd rather you learn from our bruises than earn your own.\nWhat we\ndon't\ndo\n​\nWe don't give medical advice, and we're not your doctors.\nWhat we\ndo\nshare is real-world experience: what landed, what back-fired, and what we'd never try again. Double-check everything with a clinician before you copy us.\nWhy bother sharing?\n​\nBecause\nsharing beats gate-keeping\n. After walking dozens of friends through their first research order, keeping the workflow under wraps just felt selfish.\nGround rules\n​\nNo commissions, affiliate codes, or \"special\" discount links. Ever.\nPages get updated the minute new data makes them wrong. If I'm slow, yell.\nTreat Gray.Guide as a flashlight, not a prescription pad.\nWelcome to the gray. Let's figure this out together.\nBy\nMr Fox\nUpdated\nJuly 13, 2025\nWhat I actually do\nWhat we\ndon't\ndo\nWhy bother sharing?\nGround rules\nTelegram\nNeed answers now? The\nTelegram\ngroup delivers instant chat, daily tips, and vendor short-lists curated by members who've actually ordered. Join the community today!\nReddit\nGot questions that need a crowd? Jump into\nr/glpinsiders\nand tap the hive-mind—weekly Q&A, progress check-ins, and detailed how-to posts you can search anytime.\nVendors\nContact Us\n© Gray.Guide 2025.\nFor research purposes only.\nAlways consult a qualified healthcare professional.",
+  "links": [
+    {
+      "href": "https://gray.guide/sourcing-details/verified-vendors",
+      "text": "Community-Verified Vendors"
+    },
+    {
+      "href": "https://gray.guide/",
+      "text": "Gray Guide"
+    },
+    {
+      "href": "https://gray.guide/whoami",
+      "text": "Mr Fox"
+    },
+    {
+      "href": "https://t.me/PRGassistant_bot?start=welcome",
+      "text": "Telegram"
+    },
+    {
+      "href": "https://t.me/PRGassistant_bot?start=welcome",
+      "text": "Telegram"
+    },
+    {
+      "href": "https://www.reddit.com/r/glpinsiders",
+      "text": "Reddit"
+    },
+    {
+      "href": "https://www.reddit.com/r/glpinsiders",
+      "text": "r/glpinsiders"
+    },
+    {
+      "href": "https://gray.guide/sourcing-details/verified-vendors",
+      "text": "Vendors"
+    },
+    {
+      "href": "https://gray.guide/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://t.me/PRGassistant_bot?start=welcome",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://gray.guide/img/logo-light-mode.svg",
+      "alt": "Gray Guide Logo"
+    },
+    {
+      "src": "https://gray.guide/img/logo-dark-mode.svg",
+      "alt": "Gray Guide Logo"
+    }
+  ]
+}

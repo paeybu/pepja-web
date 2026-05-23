@@ -1,0 +1,350 @@
+# Getting Started with Gray Market Tirzepatide :: Stairway to Gray
+
+URL: https://www.stairwaytogray.com/posts/tirzepatide-101/
+
+Getting Started with Gray Market Tirzepatide :: Stairway to Gray
+Skip to main content
+Stairway to Gray
+Menu â¾
+Posts
+Gray 101
+Testing 101
+Crypto 101
+Pens 101
+Posts
+Gray 101
+Testing 101
+Show more â¾
+Crypto 101
+Pens 101
+Getting Started with Gray Market Tirzepatide
+2024-12-23
+the Mods
+17 min read (3444 words)
+Table of Contents
+Anyone
+who wants to learn about gray GLP-1s, regardless of how new you are, is welcome to join the community.
+Setting Expectations
+Finding a Vendor
+Testing and Quality Control
+Reconstitution
+Dosing and Injections
+Health Monitoring
+Other Tips
+If youâre trying to figure out
+how to get started in the gray market
+for GLP-1 peptides, this guide is for you. We focus on teaching the basics to people brand new to gray and specifically
+tirzepatide or semaglutide
+â walking you through vendors, testing, and safety so you can navigate the gray peptide space with better information and less guesswork.
+Anyone
+who wants to learn about gray GLP-1s, regardless of how new you are, is welcome to join the community.
+⌗
+Step Zero: Protect Your Privacy
+Start by setting up a throwaway email dedicated to your peptide journey. Gmail works great, but make it anonymous! Itâll save you from overly eager vendors sending out marketing emails and accidentally exposing your real email and name. While research peptides, such as tirzepatide aren’t classified as scheduled drugs and aren’t regulated by the DEA in the U.S., the community is still vulnerable to internet culture risks like
+doxxing
+. Better safe than sorry ð
+Setting Expectations
+⌗
+Research Research Research First:
+Research the vendors, their reputations, costs, and shipping & payment options. Consider your comfort level with reconstitution and calculating dosages. Get familiar with how to order a peptide test or join a group test. It takes time to do this research and then assess your own comfort level with each. Read this guide entirely and poke around the
+Guides & Rules
+channel on Telegram. Take your time. We’ll be here to answer questions in the Telegram group.
+Embrace DIY:
+Reconstituting peptides means sourcing the peptide and other supplies, doing dosage math, storing correctly, testing, and injecting â all without medical oversight.
+Know the Risks:
+This is a self-research journey, not a prescription replacement. Research peptides are unregulated, so you become your own regulator ensuring you’re receiving the correct product you purchased. You will take full responsibility for the regulation and quality control of your own treatment. If you venture out beyond tirzepatide or semaglutide (which have passed Phase 3 clinical trials and been approved by the FDA to treat T2D and obesity), please research the peer-reviewed scientific studies available for the other peptides.
+Not Amazon:
+This is the gray market. Shipping is generally
+much
+slower than what you’re used to with Amazon or other e-commerce stores. Orders can take 2-8 weeks to arrive especially if shipping from China. Most vendors are typically responsive within 24 hours (remember there’s up to a 16-hour time difference between the US and China), so if you have questions or issues with your order keep this difference in mind. The Better Business Bureau (BBB) has no authority in this space. Again, the gray market is unregulated. You should never feel entitled to a vendor refunding, replacing orders, or providing the typical customer service you may feel entitled to in the regulated market you’re used to. You are your own regulator.
+Chargeback as a Last Resort:
+Do not initiate a chargeback if you’re unhappy with an order. This isn’t Amazon Prime - orders can take 2â8 weeks, and “no feelz” or broken vials are NOT a valid reason for a chargeback. Chargebacks hurt everyone by cutting off payment options and may even provoke threats from your vendor. Always try resolving with the vendor first, bring test data if you want a refund based on their purity or fill guarantee, and manage your expectations â this is an unregulated space. If you initiate or threaten a chargeback without first contacting an STG mod for mediation, you will be banned from the community.
+Social Sharing Boundaries:
+Don’t post stealth packaging publicly. Share access links via DM, and point people to this website. If you’re posting in public places that could go viral â like TikTok, Instagram, Facebook, or YouTube videos â youâre sharing too publicly. Remove it. We want people who are looking to find us, but please donât risk ‘going viral’. The same goes for talking to the media. Don’t do it. This is bannable behavior at the mods discretion.
+ð¢
+Reminder:
+The Rules & Guides channel on Telegram and this Wiki are your best friends. Read them â and yes, we’re serious about Step #1.
+ð¬Telegram Channels:
+Newbies
+and
+Rules & Guides
+Finding a Vendor
+⌗
+Vendors
+⌗
+The
+Vendor Promos
+channel contain promos from minimally vetted vendors with a track record of delivering product and are currently known not to be scammers. Familiarize yourself with these and check out the
+Sources and Testing
+channel for further questions. You may want to consider sticking with a vendor who offers Alibaba Pay, PayPal or other payment options for your very first purchase since this is the easiest payment method to use if you’re unfamiliar with the other payment methods such as crypto.
+Group Buys
+⌗
+For your first purchase check out Vendor Promotions. Sometimes, vendors call their promotions “group buys”, so vendor “promos” are synonymous with “vendor GB”. Please do
+not
+join non-vendor group buys as a newbie. This type of GB is organized by an individual; they’re a scam magnet and tend to end in many people losing their money, so it’s best to avoid trying to discern which one is “safe” to join until you’re more comfortable in the community. We also have no sway with individually organized GBs, so cannot step in and mediate if something goes wrong for you. Sticking with the vendors in
+Vendor Promos
+gives us a little more safety in numbers, and the Mods of STG can help mediate if you run into an issue that your sales rep is not resolving with you.
+International vs Domestic Warehouses
+⌗
+Pretty much all gray
+API
+tirzepatide is manufactured in China. When ordering from a vendor and shipping from China, expect a risk of U.S. Customs seizure for international shipments unless you specifically ask for domestic warehouse shipping. Not all vendors offer shipping from a US domestic warehouse. Tirzepatide is not a DEA-scheduled drug, but there is a risk of having the U.S. Customs Agency seize and report your package for wrongful labeling or just calling it HGH even when it’s not. So there’s a non-0% risk of having Global Entry and Security Clearance repercussions when accepting international shipments of tirzepatide.
+When You’re Ready to Order
+⌗
+Check the
+Vendor Promos
+channel to see how to order from your chosen vendor’s latest promotion, and contact the vendor salesperson using the contact method they provide. If using Alibaba Pay, the vendor will send you an Alibaba order “contract” with the dollar amount; ignore the order description as this will be a “stealth” order description. Use the same email you provided your sales rep as the email you made an Alibaba account with.
+Never
+contact your sales rep thru Alibaba. We do not reocmmend using crypto for you first purchse unless you are already familiar with using crypto due to the risk of losing your money if you process the payment wrong. If you still choose to do so, please do your due dilligence on understanding how to use crypto; read through the
+Crypto 101 guide
+.
+Shipping
+⌗
+We typically expect orders to take 2-8 weeks to arrive in the gray market.
+This is not Amazon
+where package tracking and customer service are always available. Check your vendor’s shipping guarantee if they have one. Some may reship after an amount of time, some will not state a concrete number and you will need to reach out to your sales rep after several weeks. Many times shipping tracking numbers are incorrect, or will not show up in the USPS system until they clear Customs and are scanned into the system. Patience and adjusting your consumer expectations is key here.
+Returns
+⌗
+There are no returns in gray market. If the vendor made a mistake and shipped the wrong product, it is advised you not reship your package to any address they provide you. If a vendor asks you to reship the product, you should not feel obligated to correct their mistake and reship for them. Reach out to an STG Mod if this happens to you and we can help mediate the issue. If you need a reship due to a purity guarantee, the vendor may ask you to destroy the product which is fairly common and okay to do so.
+ð¡
+Tip:
+A “kit” contains 10 vials, typically 3mL size, with the specified amount of mg. A T30 kit = 10 vials of 30mg in each vial, or 300 mg total of tirzepatide in the kit.
+ð¬Telegram Channels:
+Rules & Guides
+,
+Sources & Testing
+, and
+Vendor Promos
+Testing and Quality Control
+⌗
+Testing Your Order
+⌗
+It’s very highly recommended that you test every order! Joining a testing group to split costs, or testing individually provides insights into the product purity and proper vial fill (mass) for the tested peptide. Sometimes vendors mislabel or ship low quality product. The primary goal with testing is to ensure you’re receiving the peptide you ordered, at a high quality, and with the expected amount of API tirzepatide.
+Group Testing
+⌗
+Pool vials from the same batch and split testing costs with others for thorough batch checks. Testing gives you peace of mind that you’re using actual tirzepatide and at the right dose. Join a Group Test by visiting the
+Group Test Invites
+channel and seeing if any groups have formed for your vendor and batch.
+Ask questions in the
+Sources & Testing
+channel.
+3P vs. 2P Vendor Tests
+⌗
+We recommend always testing a vial (or more if group testing) from your batch. Vendor tests (2P) are an okay start when considering which vendor to choose, but
+3P
+test results give us unbiased confirmation. If vendors decide to be biased about which test results they release, Vendor
+COAs
+are as good as toilet paper ð§». So we do not blindly trust 2P vendor COAs.
+Does Sterility Matter?
+⌗
+Most gray researchers do not need to test peptide vials for sterility. Filtering with sterile supplies, along with using Hospira BAC water, is good enough for mitigating bacterial growth in your reconstituted vial. You should practice the aseptic methods recommended in the Reconstitution guide below, but subcutaneous injections such as weekly injected tirzepatide are very low risk for serious infection. Those who are immunocompromised may want to take extra precautions.
+What Do I Test?
+⌗
+The primary test you’ll want to order is High Performance Liquid Chromatography (HPLC) to test for the presence of tirzepatide, its purity, and the mass fill of the vial in milligrams (mg). The most trusted labs currently for peptide testing are
+Janoshik
+and
+PeptideTest
+. You’re looking for a test result of 98%+ purity and no more than +/-15% mass fill from labeled mg. For further information and additional periodic tests to consider running, check out
+Testing 101
+.
+ð¬Telegram Channels:
+Group Test Invites - No Discussion
+and
+Sources & Testing
+Reconstitution
+⌗
+What is Reconstituting?
+⌗
+Turning your
+lyophilized
+powder tirzepatide vial into an injectable liquid that you can dose with an insulin syringe.
+Shelf Life
+⌗
+Reconstituted vials are typically recommended to be used within
+28 days
+when stored in the refrigerator. Adopting aseptic techniques â such as wiping down the vial’s rubber stopper before each use, filtering the solution, and using Hospira BAC water â can help extend this time frame. The primary goal is to mitigate risk of bacterial growth. Always examine your vial carefully before each use. If the solution appears cloudy or contains gel-like particulates, discard it immediately, as these are signs of bacterial contamination or peptide aggregation â both of which are unsafe for injection.
+Pfizer Hospira BAC water
+⌗
+This is one of the very rare times we will insist on an actual brand name. Stick to Pfizer Hospira for BAC water and avoid sketchy “reconstitution water” from Amazon sellers. Hospira is the gold standard for bacteriostatic water becuase of its sterility and pH quality control, and the most readily available BAC water in the U.S. Some states require a prescription for Hospira BAC and thus Amazon will not sell this. Find at one of the supply vendors below.
+Supply Sources
+⌗
+Find reconstitution and storage supply vendors in the Supplies Spreadsheet pinned in the
+Supplies, Storage & Labels
+channel.
+ð¬Telegram Channels:
+Supplies, Storage & Labels
+Calculate Concentration
+⌗
+Match BAC water volume to the desired concentration. Example: 1mL BAC for every 10mg powder = easy dosing. Keep calculations precise and documented. Use a calculator to double-check your math. Adjust the amount of BAC water to change the number of units you prefer to use.
+https://www.compoundpal.com/bacwatercalc
+https://www.compoundpal.com/
+Reconstitution with Filtering
+⌗
+Filtering your reconstituted tirzepatide can mitigate sterility concerns. Not all vendors pass sterility tests, but this is mitigated by filtering. Use a 0.22Î¼m PES filter if youâre filtering. Reconstitute the peptide, filter it into a sterile vial, and air flush the filter for maximum yield.
+Reconstitution with Filtering 101
+https://youtu.be/o7EUN3FGzPs?si=5DEoF9XLi4Bb-CCA
+Venting & Flushing 102
+https://youtu.be/9YBj26vpHs0?si=njV1z30PtkVYv3SX
+Step By Step Reconstitution
+⌗
+Supplies Needed:
+Lyophilized vial of tirzepatide
+70% Isopropyl alcohol wipes or spray with paper towels
+Luer lock syringe (3 mL)
+Luer lock needles (1.5 inch needles to get to the bottom of the vial upright)
+Empty sterile glass vial (3 mL)
+Pfizer Hospira bacteriostatic water
+0.22um PES syringe filter (4mm or 13mm wide)
+Sharps container
+Exam gloves (optional)
+ð
+Reconstitution and Filter Guide
+[credit: @ForestForay 2025]
+Checking pH
+⌗
+GLP-1 peptides currently on the gray market typically reconstitute at an ideal pH balance, but it’s wise to verify pH before injecting from your first vial in a kit. Tirzepatide should fall in the 6-9 pH range, if reconstituting outside this range you risk the peptide potentially not dissolving into solution, degrading faster, or causing discomfort at the injection site. Use inexpensive pH strips from Amazon to test your reconstituted tirzepatide by applying a couple units worth to the strip. Using Hospira BAC which is already buffered to an ideal pH itself should be enough to reconstitute at an ideal pH for the GLP1s.
+source
+How Should It Look?
+⌗
+Reconstituted tirzepatide should completely dissolve and be completely clear. Check out our guide on
+What to Look for in Lyophilized Peptides
+to learn how to identify high-quality and poor-quality lyophilized and reconstituted peptides.
+ð¡
+Tips:
+Store lyophilized powder in the freezer for years.
+Store reconstituted liquid vials in the fridge.
+Store BAC water at room temperature.
+Label everything! Missteps in storage or concentration can ruin your injection day.
+Niimbot
+labelers are great for this.
+ð¬Telegram Channels:
+Other Peptides and Reconstituting
+and
+Supplies and Storage
+Dosing and Injections
+⌗
+If you are not coming from prescription tirzepatide and so do not already have a dosing schedule, the following is the currently recommend dosage protocol for tirzepatide based on Phase 3 trials.
+source
+:
+Month
+Week(s)
+Dose
+Administration Notes
+1
+1â4
+2.5 mg/week
+Initiation phase; allows the body to adjust to the medication.
+2
+5â8
+5 mg/week
+Gradual escalation to improve efficacy while monitoring tolerance.
+3
+9â12
+7.5 mg/week
+Further dose increase if tolerated; assess GI side effects.
+4
+13â16
+10 mg/week
+Standard therapeutic dose for many patients.
+5
+17â20
+12.5 mg/week
+Higher dose for those needing additional efficacy and tolerating well.
+6+
+21+
+15 mg/week
+Maximum recommended dose; monitor for side effects and adjust as needed.
+If you’re moving from prescription tirzepatide, you can continue using your dosing protocol.
+Dosing Schedule Considerations
+⌗
+Starting Dose
+: Begin at
+2.5 mg or lower
+to minimize gastrointestinal side effects.
+Dose Escalation
+: Increase every 4 weeks based on tolerance, but many take this much slower. Sometimes moving up in dose every 2 months or more after adjusting to the 2.5mg starter dose.
+Injection Site
+: Subcutaneous (abdomen, thigh, or upper arm). Rotate exact injection site weekly.
+Timing
+: Inject once weekly or every 7 days. Because tirzepatide has a half-life in the body of 5 days, it takes about 20-25 days for it to build up in your body for it’s maximum and steady intended level.
+source
+Dosage Math
+⌗
+Example:
+A 60mg vial reconstituted with 3mL BAC water = 20mg/mL concentration
+If Desired Dose = 10mg. Draw 0.5mL (or 50 units on an insulin syringe)
+Concentration Calculators
+https://www.compoundpal.com/bacwatercalc
+https://www.compoundpal.com/
+Syringes
+⌗
+31g insulin syringes for injection. The larger gauge needles (25-27g) are used only for reconstitution not dose injections.
+SubQ Injections
+⌗
+GLP-1s such as tirzepatide are weekly subcutaneous injections. It’s easier to show than tell!
+https://youtu.be/jt7SYhALtPk
+Injection Site Reactions
+⌗
+Minor redness or stinging? Likely your body’s histamine release or sometimes can be caused when pH is outside of the recommended 4-9 pH range for subQ injections. A small bruise means you managed to actually hit a small blood vessel - no worries! Even developing a minor ISR after a few injections is normal.
+source
+Health Monitoring
+⌗
+If you have a primary care physician you trust, work with them to develop a health panel tailored to your situation. However, be aware that licensed physicians will not condone the use of research peptides and could decline to provide a treatment plan. If that’s the case, your alternative is to take charge of your own health monitoring by conducting periodic blood-work yourself.
+For individuals using peptides, it’s generally recommended to run a comprehensive health panel once or twice a year, including:
+HbA1c: To monitor long-term blood sugar control.
+Liver Function Tests (ALT, AST): To check for liver health and detect potential side effects.
+Renal Function Tests (eGFR, Creatinine, BUN): To ensure kidney health.
+Electrolytes (Sodium, Potassium): To check for imbalances that can arise from GLP-1 use.
+Lipid Profile (Cholesterol, Triglycerides): To assess cardiovascular risk.
+Thyroid Function Tests (TSH, Free T4): To rule out any thyroid abnormalities, as these can sometimes be affected.
+Lab Panel Providers
+⌗
+These are lab panel providers who do not require a doctor’s orders to fulfill:
+https://www.ondemand.labcorp.com
+https://www.privatemdlabs.com
+https://www.fitomics.org
+https://www.functionhealth.com
+Eating Disorders and Malnutrition Risk
+⌗
+Our community is here to support your journey toward a healthier relationship with food and your body. GLP-1 medications are meant to normalize hunger responses and support blood sugar control, not to suppress hunger unnecessarily. If using GLP-1s, ensure regular blood work to monitor liver health and blood sugar, and watch for
+signs of malnutrition
+. Seek medical attention if you notice concerning symptoms. Your health is important, even in the gray space, and if you’re struggling with an eating disorder, reach out to the
+National Eating Disorders Association
+. Let’s get healthy together! ð©¶
+ð¬Telegram Channels:
+Other Peptides and Reconstituting
+and
+Food, Nutrition, Fitness
+Other Tips
+⌗
+Salt vs. Base Form:
+Gray-market tirzepatide is pretty much entirely available in salt forms, such as tirzepatide sodium or tirzepatide acetate, whereas the FDA-approved brands Mounjaro and Zepbound and
+503a/b compliant compounding pharmacies
+use the tirzepatide base form.
+Salt forms
+can influence properties such as pH, shelf stability, and solubility, often improving the latter.
+source
+While no peer-reviewed studies have specifically examined tirzepatide salt forms, there are no known health risks associated with using tirzepatide sodium or tirzepatide acetate, which are most commonly found in the gray market. Notably, pharmaceutical salt forms account for approximately 50% of new FDA-approved drugs, underscoring their general safety and widespread use.
+source
+However, since salt forms can potentially alter the bioavailability and stability of the active pharmaceutical ingredient (API), it’s reasonable to recognize this distinction â particularly for those transitioning from 503a/b compounding pharmacies, which typically use tirzepatide base raw powder form rather than tirzepatide salt lyophilized powder forms.
+source
+Bad Actors:
+The gray peptide market is full of opportunists, especially targeting newcomers. NEVER accept unsolicited DMs from anyone looking to sell you stuff; they are almost always scammers pretending to the vendor. If the ‘vendor rep’ of the community you just joined DMs you with a price list, do not reply and block them. Real vendors will not DM you first; you reach out to the vendor yourself. The same rule of thumb goes with phone calls or emails in life. Always go to the known source of contact info which, for gray, means the
+Vendor Promos
+channel in the TG group or the vendor’s server/group official post to initiate an order. Leverage the Telegram group and ask questions. In this unregulated space, it’s up to us to hold vendors and suppliers accountable â never assume they have your best interests at heart.
+Final note: Weâre not doctors and anything construed as medical advice here should be discussed with your own primary healthcare provider. Weâre passionate about building a community dedicated to sharing knowledge and ensuring continued access to tirzepatide while promoting harm reduction strategies. We make no profit from this guide which is community ran and contributed to, and have absolutely no finanical affiliations with any vendors promoted in the community.
+If you have any questions, concerns, or feedback about the information or sources provided, please don’t hesitate to reach out to @seekerseventysix on Telegram. If you’re looking for access to the Telegram group, please click the Discord invite in the footer of this page
+Read other posts
+â
+Residual Solvents
+Dictionary of Terms
+â
+^
+Â© 2026 Powered by
+Hugo
+::
+Join STG on Telegram
+::
+Join STG on Loqa
+::
+Join STG Testing Server on Loqa

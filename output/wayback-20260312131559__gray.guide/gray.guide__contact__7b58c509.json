@@ -1,0 +1,103 @@
+{
+  "target_url": "https://gray.guide/contact",
+  "fetched_url": "https://web.archive.org/web/20260312131559id_/https://gray.guide/contact",
+  "final_url": "https://web.archive.org/web/20260315202021id_/https://www.gray.guide/contact",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-05-23T14:00:33Z",
+  "depth": 1,
+  "seed_url": "https://web.archive.org/web/20260312131559/https://gray.guide/",
+  "title": "Contact Us | Gray Guide",
+  "description": "Get in touch with the Gray Guide community for support and information about GLP-1 medications.",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Contact Us"
+    },
+    {
+      "level": 3,
+      "text": "Email"
+    },
+    {
+      "level": 3,
+      "text": "Telegram"
+    },
+    {
+      "level": 3,
+      "text": "Moderator Telegram"
+    },
+    {
+      "level": 3,
+      "text": "Reddit"
+    },
+    {
+      "level": 3,
+      "text": "Telegram"
+    },
+    {
+      "level": 3,
+      "text": "Reddit"
+    }
+  ],
+  "text": "Contact Us | Gray Guide\nSkip to main content\n📋 New:\nCommunity-Verified Vendors\ndirectory now available\nGray Guide\nSearch\nContact Us\nGet in touch with the Gray Guide community through any of these channels:\nEmail\ngrayguide@protonmail.com\nTelegram\nMain Group\nModerator Telegram\n@RegalMrFox\nReddit\nr/glpinsiders\nTelegram\nNeed answers now? The\nTelegram\ngroup delivers instant chat, daily tips, and vendor short-lists curated by members who've actually ordered. Join the community today!\nReddit\nGot questions that need a crowd? Jump into\nr/glpinsiders\nand tap the hive-mind—weekly Q&A, progress check-ins, and detailed how-to posts you can search anytime.\nVendors\nContact Us\n© Gray.Guide 2025.\nFor research purposes only.\nAlways consult a qualified healthcare professional.",
+  "links": [
+    {
+      "href": "https://gray.guide/sourcing-details/verified-vendors",
+      "text": "Community-Verified Vendors"
+    },
+    {
+      "href": "https://gray.guide/",
+      "text": "Gray Guide"
+    },
+    {
+      "href": "https://t.me/PRGassistant_bot?start=welcome",
+      "text": "Main Group"
+    },
+    {
+      "href": "https://t.me/RegalMrFox",
+      "text": "@RegalMrFox"
+    },
+    {
+      "href": "https://www.reddit.com/r/glpinsiders",
+      "text": "r/glpinsiders"
+    },
+    {
+      "href": "https://t.me/PRGassistant_bot?start=welcome",
+      "text": "Telegram"
+    },
+    {
+      "href": "https://t.me/PRGassistant_bot?start=welcome",
+      "text": "Telegram"
+    },
+    {
+      "href": "https://www.reddit.com/r/glpinsiders",
+      "text": "Reddit"
+    },
+    {
+      "href": "https://www.reddit.com/r/glpinsiders",
+      "text": "r/glpinsiders"
+    },
+    {
+      "href": "https://gray.guide/sourcing-details/verified-vendors",
+      "text": "Vendors"
+    },
+    {
+      "href": "https://gray.guide/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://t.me/PRGassistant_bot?start=welcome",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://gray.guide/img/logo-light-mode.svg",
+      "alt": "Gray Guide Logo"
+    },
+    {
+      "src": "https://gray.guide/img/logo-dark-mode.svg",
+      "alt": "Gray Guide Logo"
+    }
+  ]
+}

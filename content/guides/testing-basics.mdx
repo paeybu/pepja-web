@@ -1,0 +1,139 @@
+---
+slug: testing-basics
+title: การทดสอบ peptide — คุณคือ QC ของตัวเอง
+category: safety
+difficulty: intermediate
+related_peptides: [semaglutide, tirzepatide, bpc-157]
+updated: 2026-05-23
+---
+
+ถ้าคุณซื้อจาก vendor research-grade (Path C) คุณจะไม่มีใครการันตีว่าได้ของจริง
+ตามที่จ่ายเงิน — คุณคือ Quality Control ของตัวเอง วิธีเดียวที่จะรู้แน่ว่าใน
+ขวดมีเปปไทด์ตัวที่ต้องการ บริสุทธิ์เท่าไหร่ และน้ำหนักครบไหม คือ **ส่งทดสอบ
+แบบ third-party (3P)**
+
+## ทำไมไม่เชื่อ COA ของ vendor
+
+Vendor มี **2P COA** (Certificate of Analysis ที่ vendor ทำเอง หรือจ้างทำ)
+ปัญหาคือ vendor เลือกได้ว่าจะปล่อยผลไหน — ผลที่ไม่ดีก็ไม่ปล่อย
+2P COA เป็นแค่จุดเริ่มต้น ไม่ใช่หลักฐานสุดท้าย
+
+**3P testing** = ส่งให้แล็บอิสระทดสอบเอง vendor ไม่เกี่ยว
+ผลที่ได้จะตรงไปตรงมา ไม่มีอคติ
+
+## ทดสอบอะไรบ้าง
+
+### ทุก order — ทดสอบ 2 อย่าง
+
+**1. HPLC สำหรับ purity + mass**
+
+HPLC (High-Performance Liquid Chromatography) บอก:
+
+- เปปไทด์ที่อยู่ในขวดเป็นตัวที่สั่งจริงหรือเปล่า
+- **purity (%)** — เปปไทด์บริสุทธิ์แค่ไหน (มาตรฐานชุมชน: ≥98%)
+- **mass (mg)** — น้ำหนักจริงในขวด (มาตรฐานชุมชน: ±10% จากที่ฉลากบอก)
+
+ถ้า vendor ขายขวด 30 mg แต่ HPLC บอก 25 mg → underfill 17% เกินมาตรฐาน
+แจ้ง vendor ขอ reship ได้
+
+**2. LAL สำหรับ endotoxins**
+
+Endotoxins คือชิ้นส่วนของแบคทีเรียที่ตายแล้ว — กรองด้วย 0.22μm filter เอาออกไม่ได้
+มาตรฐาน FDA สำหรับเทอร์เซพาไทด์: **น้อยกว่า 10 EU/mg**
+
+ถ้าเปปไทด์ผลิตในสภาพแวดล้อมที่ไม่สะอาด หรือใช้ raw material ปนเปื้อน
+endotoxins สูง = ฉีดแล้วไข้ขึ้น ปวดเมื่อย ผลกระทบระยะยาว
+
+### เป็นระยะๆ — ไม่ต้องทุก order
+
+- **NMR F-19 สำหรับ TFA (Trifluoroacetic Acid)** — ตรวจ residual solvent
+  TFA เป็น counterion ที่ vendor บางที่ใช้แทน sodium/acetate เพื่อลดต้นทุน
+  สำหรับการฉีดทุกสัปดาห์ระยะยาว TFA salt form ไม่เหมาะ
+- **Heavy metals** — สารหนู ตะกั่ว ปรอท ไม่ควรมีในเปปไทด์สังเคราะห์
+  แต่ตรวจเป็นระยะเพื่อความสบายใจ
+
+### ไม่จำเป็น
+
+- **Sterility (USP &lt;71&gt;)** — ถ้าคุณ filter ด้วย 0.22μm PES filter
+  ตอนผสม และใช้ Hospira BAC water แบคทีเรียที่อาจมีก็โดนกรองออก
+- **GC-FID for class 1 residual solvents** — ปกติระเหยไประหว่างกระบวนการ
+  lyophilization อยู่แล้ว ตรวจ TFA ก็พอแล้ว
+
+## Group testing — แชร์ค่าทดสอบ
+
+การทดสอบราคาประมาณ **1,500–3,000 บาท/test** ค่อนข้างแพง
+ถ้ามีคนซื้อ batch เดียวกันหลายคน รวมกลุ่มแชร์ค่าทดสอบ:
+
+1. ทุกคนส่งขวดมาที่คนกลาง (หรือใช้ vial 1 ขวดจาก kit ใครก็ได้)
+2. คนกลางส่งไปแล็บเดียว
+3. ผลออกมา ทุกคนได้รับรู้ข้อมูลของ batch เดียวกัน
+
+อยู่ในไทยอาจรวมกลุ่มได้ผ่าน community แชทต่างๆ ลองหาในกลุ่ม Telegram หรือ
+Discord ของผู้ใช้ GLP-1/peptide
+
+## แล็บที่ชุมชนใช้กัน
+
+<DoseTable
+  rows={[
+    { phase: "Janoshik", dose: "ราคา ~$80 (HPLC)", frequency: "อยู่ใน EU", notes: "ส่งจากไทย ~2,500–3,500 ฿ รวมส่ง" },
+    { phase: "PeptideTest (Trustpointe)", dose: "ราคา ~$120 (HPLC)", frequency: "อยู่ใน US", notes: "ราคาส่งจากไทยสูงกว่า" },
+    { phase: "NumegaLab", dose: "ราคา ~$120 (HPLC)", frequency: "อยู่ใน US", notes: "ทางเลือก" },
+  ]}
+/>
+
+วิธีส่ง:
+
+1. สั่ง test ผ่านเว็บแล็บ จ่ายเงิน (มักจ่ายผ่าน PayPal หรือ crypto)
+2. แล็บส่ง shipping label / ที่อยู่ให้
+3. ส่ง vial ที่จะทดสอบไป — ใส่กล่องกันกระแทก ส่ง EMS หรือไปรษณีย์ทั่วไป
+4. รอผล 1–4 สัปดาห์
+
+## วิธีอ่านผล HPLC
+
+ผลจะมาเป็น **chromatogram** — กราฟที่มียอด (peak) แต่ละยอด
+
+**ดูสองอย่าง:**
+
+1. **Retention time (RT)** ของยอดหลัก ตรงกับ reference ของเปปไทด์ตัวที่สั่งหรือไม่
+2. **Area Under Curve (AUC)** — คำนวณเป็น % purity
+
+ตัวอย่าง: เทอร์เซพาไทด์ RT ปกติประมาณ 5–8 นาที (ขึ้นกับ method แต่ละแล็บ)
+ถ้า peak หลักอยู่ที่ RT ผิด → อาจเป็นเปปไทด์ตัวอื่นที่ vendor labelled ผิด
+
+**Purity % ที่ยอมรับ:**
+
+- ≥ 98%: ผ่านมาตรฐานชุมชน
+- 95–98%: รับได้ แต่ไม่ premium
+- น้อยกว่า 95%: คุณภาพต่ำ — แจ้ง vendor
+
+**Mass:**
+
+- ขวด 30 mg HPLC บอก 28.5 mg = underfill 5% (±10% รับได้)
+- ขวด 30 mg HPLC บอก 24 mg = underfill 20% (เกินมาตรฐาน — claim ได้)
+
+<Callout variant="tip" title="ขอ raw data เสมอ">
+  เมื่อสั่ง test บอกแล็บว่าต้องการ raw data — ไฟล์ chromatogram ดิบ
+  ไม่ใช่แค่ summary ตัวเลข
+  เพราะถ้ามีคนสงสัยผล (เช่น vendor บอกว่าผลผิดพลาด) คุณจะมีหลักฐาน
+</Callout>
+
+## เรื่องที่ไม่ต้องห่วง (เกินไป)
+
+- **Sterility ไม่ผ่าน** — ฉีด subq ความเสี่ยงติดเชื้อต่ำมาก
+  แค่ filter ก่อนผสมก็พอ
+- **Class 1 solvents** — ปกติไม่ใช้ใน SPPS (peptide synthesis)
+  ระเหยหมดในกระบวนการ lyophilization
+- **Color เพี้ยนจาก dye blend** — บาง blend เช่น "Glow" ตั้งใจให้เป็นสีฟ้า ไม่ใช่ปัญหา
+
+## สรุปคำเตือนสำคัญ
+
+- ถ้าคุณจะใช้ research-grade ระยะยาว **ส่งทดสอบครั้งแรกเป็นอย่างน้อย**
+- 2P COA ของ vendor = จุดเริ่มต้น ไม่ใช่ข้อสรุป
+- Group test ช่วยลดต้นทุน + ได้ข้อมูล batch ครบกว่า
+- บันทึก batch number ทุกครั้งที่สั่ง ทุก lot ต่างกันได้
+
+## อ่านต่อ
+
+- [วิธีผสมเปปไทด์ (Reconstitution)](/guides/reconstitution-basics)
+- [เปปไทด์ในไทย — คลินิก ร้านยา หรือสั่งเอง](/guides/thailand-landscape)
+- [วิธีเก็บเปปไทด์](/guides/storage)

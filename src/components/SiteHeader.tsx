@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { ThemeToggle } from "@/components/ThemeToggle";
 
 const NAV_LINKS = [
   { href: "/start", label: "เริ่มที่นี่" },
@@ -32,6 +33,7 @@ export function SiteHeader() {
           >
             คำนวณโดส
           </a>
+          <ThemeToggle />
         </nav>
       </div>
     </header>

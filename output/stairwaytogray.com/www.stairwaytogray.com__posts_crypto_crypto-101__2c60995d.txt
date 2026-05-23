@@ -1,0 +1,282 @@
+# Crypto 101 for Gray Market Purchases :: Stairway to Gray
+
+URL: https://www.stairwaytogray.com/posts/crypto/crypto-101/
+
+Crypto 101 for Gray Market Purchases :: Stairway to Gray
+Skip to main content
+Stairway to Gray
+Menu â¾
+Posts
+Gray 101
+Testing 101
+Crypto 101
+Pens 101
+Posts
+Gray 101
+Testing 101
+Show more â¾
+Crypto 101
+Pens 101
+Crypto 101 for Gray Market Purchases
+2025-05-25
+the Mods
+5 min read (1053 words)
+Table of Contents
+Overview: Stablecoins vs Regular Crypto Coins
+Before You Start
+Step-by-Step: Buying SOL & Swapping Stablecoin Using Exodus Wallet
+Tips & Final Warnings
+Overview: Stablecoins vs Regular Crypto Coins
+⌗
+Before diving in, itâs helpful to understand the difference between crypto coin types like Bitcoin or Solana, and stablecoins:
+Bitcoin (BTC), Solana (SOL), etc.
+Stablecoins (USDT, USDC, PYUSD, etc.)
+Volatile asset â price fluctuates rapidly
+Tied to USD â 1 coin â $1 USD
+Designed for long-term holding (âdigital goldâ)
+Meant for payments and transfers
+Widely accepted, but not ideal for stable-value purchases
+Preferred for predictable value
+For research peptide purchases,
+stablecoins are preferred
+because they hold their value and settle quickly. Youâre not gambling on crypto value â just using it as a payment method.
+â ï¸ Why Network Matters (Solana vs Tron vs Ethereum)
+⌗
+Tether (USDT) and USD Coin (USDC) are not networks, they are stablecoins.
+Stablecoins are issued on
+many
+different networks â each with their own wallet compatibility.
+For example, USDT exists on networks:
+Ethereum
+as
+USDT/ETH
+or
+USDT/ERC20
+Tron
+as
+USDT/TRX
+or
+USDT/TRC20
+and others too
+and USDC exists on networks:
+Solana
+as
+USDC/SOL
+Ethereum
+as
+USDC/ETH
+or
+USDC/ERC20
+and others
+If you send your crypto payment to the wrong network, you will lose it.
+Examples:
+Sending
+USDT/TRC20 (Tron)
+to a
+Solana wallet
+= ð¸ funds gone
+Sending
+USDT/SPL (Solana)
+to an
+Ethereum address
+= ð¸ also gone
+Always confirm with the vendor
+:
+The
+correct currency
+(e.g. USDT, UDSC, SOL, etc.)
+The
+correct network
+(e.g. “USDT on Tron” means TRC20/TRX, not Solana/SOL/SPL or Ethereum/ETH)
+The
+correct wallet address
+for THAT SPECIFIC NETWORK
+Also double-check that your wallet (like Exodus) supports
+that coin on that network
+.
+Before You Start
+⌗
+ð± Pick your wallet. This guide uses
+Exodus wallet
+, available on mobile and desktop -
+exodus.com
+(because it’s a self-hosted wallet that doesn’t risk being shutdown like a custodial wallet with Coinbase).
+â
+Pick your payment coin
+: Most vendors accept
+USDT (on Sol, Tron, or Ethereum)
+,
+PYUSD (on Sol)
+, or
+SOL itself
+.
+ðª
+SOL is required
+for transactions on Solana network â even if you’re sending USDT or PYUSD. Keep $5â10 in SOL for fees. This is also known as
+gas money
+.
+ð
+Buy early
+: Your first crypto buy may trigger security holds. Plan ahead â ideally
+7+ days
+before your order.
+ð¸
+Transfer modestly
+: Try funding your wallet in $100â200 chunks. Some users get flagged for larger transfers.
+ð¥
+Always verify
+with your vendorâs community the
+exact wallet address AND network
+to send to.
+Crypto is non-refundable
+if you mess it up and send to the wrong wallet.
+ðºï¸ If you are in WA, NY, or another state that limits crpyto purchases, you may need to use a VPN while using Exodus for Swaps.
+Step-by-Step: Buying SOL & Swapping Stablecoin Using Exodus Wallet
+⌗
+Video Walkthrough: Steps 1 & 2
+ð§ Step 1: Install & Set Up Exodus
+⌗
+Download Exodus Wallet from
+exodus.com
+or your app store.
+From the home screen, tap the
+Settings âï¸
+.
+Back up your
+12-word recovery phrase
+â do
+NOT
+skip this.
+Enable biometric or PIN security if you want.
+âï¸ Step 2: Enable Coins
+⌗
+From the home screen, tap
+Assets
+.
+Enable:
+â
+SOL (Solana)
+â
+USDT (Solana)
+,
+USDT (Tron)
+, or
+USDT (Ethereum)
+depending on vendor
+â
+PYUSD (Solana)
+if you’re using that
+Disable unused assets for clarity.
+ð³ Step 3: Buy SOL (Required for Swapping)
+⌗
+Video Walkthrough: Step 3
+From the main screen, tap on
+Solana (SOL)
+.
+Tap
+Buy
+.
+Exodus will suggest an exchange partner (MoonPay, Ramp, etc.).
+You can tap the
+provider name
+to change it.
+Choose based on your payment method and ID verification preferences.
+Enter the purchase amount:
+If you’re using stablecoin for your purchase you really only need <$10 for gas money, but there may be a minimum so just buy the minimum and you can always swap the extra later so that you’re keeping most of your funds in stablecoins.
+Complete the checkout:
+ID verification is required.
+Use a debit card, Apple Pay, etc.
+Wait a few minutes for funds to show in Exodus.
+ð Step 4: Swap SOL to a stablecoin
+⌗
+You don’t NEED to swap SOL into a stablecoin, but since SOL’s value is highly volatile it’s recommended to hold stablecoin to use as cash instead. Swap it all except for ~$10 (to use for gas fees) to ensure stability and access for short-term purchases.
+Video Walkthrough: Step 4
+From the main screen, tap the
+Swap
+button or slide right on SOL coin and select
+Swap
+.
+Swap:
+From
+: SOL
+To
+: USDT, USDC, or PYUSD
+NOTE: See which currency and network your vendor uses to avoid additional swaps. Swap to that stablecoin currency and network.
+Enter amount and confirm the swap is for the right currency (e.g. USDT) AND network (e.g. Ethereum/ETH). (Remember to leave ~$10 equivalent of SOL in your wallet to use for gas fees for future exchanges.)
+Wait for confirmation. This is usually near-instant.
+ð¸ Step 5: Send Crypto to the Vendor
+⌗
+Video Walkthrough: Step 5
+Tap the asset you’re sending (
+PYUSD/SOL
+,
+USDT/SOL
+,
+USDT/TRX
+,
+USDC/SOL
+,
+USDC/ETH
+, etc.)
+Tap
+Send
+.
+Paste the
+vendor’s wallet address
+Double-check the network
+(e.g., Solana â  Tron).
+Confirm it matches what the
+vendor and community mods
+say.
+Enter the
+exact amount in the exact currency
+the vendor confirmed.
+NOTE: 300 SOL â  $300 USD. Ensure you’re using the correct currency unit
+Tap
+Send
+.
+â ï¸
+Important
+: You can’t ‘undo’ a crypto transaction. Triple-check:
+â Wallet address (unique ID specific to a network) is the actual vendor’s wallet
+â Network (SOL vs TRX vs ETH)
+â Coin currency type (USDT vs USDC vs PYUSD vs SOL vs ETH)
+ð§¾ Step 6: Confirm with Vendor
+⌗
+Send
+proof of payment
+if required (e.g., transaction ID link, screenshot).
+Most vendors will verify order once confirmed on-chain within 24 hours.
+Tips & Final Warnings
+⌗
+Educate yourself beyond this guide â ask experienced community members in the
+Crypto
+channel if you have questions.
+Keep
+screenshots of your transaction
+and/or a
+link to the blockchain confirmation
+in case the vendor asks.
+Never send crypto to
+unverified
+or unsolicited DM accounts.
+Treat your
+recovery phrase
+like your bank account password â if you lose it, you lose your funds.
+ð¬Telegram Channel:
+Crypto
+If you have any questions, concerns, or feedback about the information or sources provided, please don’t hesitate to reach out to @seekerseventysix on Telegram. If you’re looking for access to the Telegram group, please click the Discord invite in the footer of this page
+Read other posts
+â
+Testing 101
+What to Look for in Lyophilized Peptides
+â
+^
+Â© 2026 Powered by
+Hugo
+::
+Join STG on Telegram
+::
+Join STG on Loqa
+::
+Join STG Testing Server on Loqa

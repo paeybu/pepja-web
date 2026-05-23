@@ -35,7 +35,15 @@ export default function RootLayout({
     <html
       lang="th"
       className={`${thaiSans.variable} ${geistMono.variable}`}
+      suppressHydrationWarning
     >
+      <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){try{var t=localStorage.getItem("theme");if(t==="dark"||t==="light"){document.documentElement.setAttribute("data-theme",t);}}catch(e){}})();`,
+          }}
+        />
+      </head>
       <body className="flex min-h-screen flex-col">
         <SiteHeader />
         <main className="mx-auto w-full max-w-3xl flex-1 px-6 py-12">

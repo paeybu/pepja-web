@@ -11,17 +11,27 @@ const PATHS = [
   {
     goal: "ลดน้ำหนัก",
     href: "/peptides/semaglutide",
-    label: "เริ่มที่ GLP-1 (เซมากลูไทด์ / เทอร์เซพาไทด์)",
+    label: "เริ่มที่ GLP-1 — เซมากลูไทด์ (Ozempic, Wegovy)",
+  },
+  {
+    goal: "ลดน้ำหนัก (เลือกตัวที่แรงกว่า)",
+    href: "/peptides/tirzepatide",
+    label: "เทอร์เซพาไทด์ (Mounjaro) — dual agonist",
   },
   {
     goal: "ฟื้นตัวจากบาดเจ็บ / กล้ามเนื้อ",
-    href: "/peptides",
-    label: "BPC-157 และตัวอื่นในกลุ่ม healing (กำลังเขียน)",
+    href: "/peptides/bpc-157",
+    label: "BPC-157 — เปปไทด์เพื่อ healing",
   },
   {
     goal: "ยังไม่แน่ใจ อยากเข้าใจภาพรวมก่อน",
     href: "/guides/what-are-peptides",
     label: "เปปไทด์คืออะไร และทำไมคนถึงใช้กัน",
+  },
+  {
+    goal: "อยากรู้ว่าในไทยซื้อยังไงได้บ้าง",
+    href: "/guides/thailand-landscape",
+    label: "เปปไทด์ในไทย — คลินิก ร้านยา หรือสั่งเอง",
   },
 ];
 
