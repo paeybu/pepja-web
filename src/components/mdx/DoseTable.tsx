@@ -7,36 +7,45 @@ export type DoseRow = {
 
 export function DoseTable({ rows }: { rows: DoseRow[] }) {
   return (
-    <div className="my-8 overflow-hidden rounded-2xl border border-[color:var(--color-rule)] bg-[color:var(--color-surface)] shadow-[var(--shadow-card)]">
+    <div className="my-10">
+      <h3 className="m-0 mb-3 text-lg font-semibold text-[color:var(--color-ink)]">
+        ตารางโดส
+      </h3>
       <div className="overflow-x-auto">
         <table className="w-full border-collapse text-left text-sm">
-          <thead className="bg-[color:var(--color-paper-muted)]">
-            <tr className="text-xs uppercase tracking-wider text-[color:var(--color-ink-soft)]">
-              <th className="px-4 py-3 font-semibold">ช่วง</th>
-              <th className="px-4 py-3 font-semibold">โดส</th>
-              <th className="px-4 py-3 font-semibold">ความถี่</th>
-              <th className="px-4 py-3 font-semibold">หมายเหตุ</th>
+          <thead>
+            <tr className="border-y border-[color:var(--color-rule-strong)]">
+              <th className="py-3 pr-6 text-xs font-medium text-[color:var(--color-ink-soft)]">
+                ช่วง
+              </th>
+              <th className="py-3 pr-6 text-xs font-medium text-[color:var(--color-ink-soft)]">
+                โดส
+              </th>
+              <th className="py-3 pr-6 text-xs font-medium text-[color:var(--color-ink-soft)]">
+                ความถี่
+              </th>
+              <th className="py-3 text-xs font-medium text-[color:var(--color-ink-soft)]">
+                หมายเหตุ
+              </th>
             </tr>
           </thead>
           <tbody>
             {rows.map((row, i) => (
               <tr
                 key={i}
-                className="border-t border-[color:var(--color-rule)] align-top transition-colors hover:bg-[color:var(--color-paper-muted)]"
+                className="border-b border-[color:var(--color-rule)] align-top"
               >
-                <td className="px-4 py-3 font-medium text-[color:var(--color-ink)]">
+                <td className="py-4 pr-6 font-medium text-[color:var(--color-ink)]">
                   {row.phase}
                 </td>
-                <td className="px-4 py-3">
-                  <span className="inline-block rounded-md bg-[color:var(--color-brand-soft)] px-2 py-0.5 font-mono text-[color:var(--color-brand-ink)]">
-                    {row.dose}
-                  </span>
+                <td className="py-4 pr-6 font-mono font-medium text-[color:var(--color-brand)]">
+                  {row.dose}
                 </td>
-                <td className="px-4 py-3 text-[color:var(--color-ink-muted)]">
+                <td className="py-4 pr-6 text-[color:var(--color-ink-muted)]">
                   {row.frequency}
                 </td>
-                <td className="px-4 py-3 text-[color:var(--color-ink-muted)]">
-                  {row.notes ?? "—"}
+                <td className="py-4 text-[color:var(--color-ink-muted)]">
+                  {row.notes ?? "·"}
                 </td>
               </tr>
             ))}

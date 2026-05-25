@@ -24,10 +24,10 @@ export async function generateMetadata({
   try {
     const fm = getPeptideFrontmatter(slug);
     return {
-      title: `${fm.name_th} (${fm.name_en}) — ข้อมูล โดส วิธีใช้`,
+      title: `${fm.name_th} (${fm.name_en}): ข้อมูล โดส วิธีใช้`,
       description: fm.short_desc,
       openGraph: {
-        title: `${fm.name_th} (${fm.name_en}) — ข้อมูล โดส วิธีใช้ | ${SITE_NAME}`,
+        title: `${fm.name_th} (${fm.name_en}): ข้อมูล โดส วิธีใช้ | ${SITE_NAME}`,
         description: fm.short_desc,
       },
     };
@@ -56,60 +56,43 @@ export default async function PeptidePage({
 
   return (
     <article>
-      <header
-        className="relative overflow-hidden rounded-3xl border border-[color:var(--color-rule)] bg-[color:var(--color-surface)] p-6 md:p-8"
-      >
-        <div
-          aria-hidden
-          className="pointer-events-none absolute -top-20 -right-20 h-56 w-56 rounded-full opacity-50 blur-3xl"
-          style={{
-            background: `radial-gradient(circle, color-mix(in oklab, ${theme.color} 45%, transparent), transparent 70%)`,
-          }}
-        />
-        <div
-          className="absolute inset-x-0 top-0 h-1"
-          style={{
-            background: `linear-gradient(90deg, ${theme.color}, color-mix(in oklab, ${theme.color} 30%, transparent))`,
-          }}
-        />
-        <div className="relative">
-          <div className="flex flex-wrap items-center gap-2">
-            <span
-              className="chip"
-              style={{ color: theme.color, background: theme.soft }}
-            >
-              {theme.label}
-            </span>
-            <span className="text-[10px] font-medium uppercase tracking-wider text-[color:var(--color-ink-soft)]">
-              {DIFFICULTY_LABEL[fm.difficulty] ?? fm.difficulty}
-            </span>
-          </div>
-          <h1 className="mt-4 text-3xl font-semibold leading-tight tracking-tight md:text-4xl">
-            {fm.name_th}{" "}
-            <span className="text-[color:var(--color-ink-muted)]">
-              ({fm.name_en})
-            </span>
-          </h1>
-          {fm.brand_names.length > 0 && (
-            <p className="mt-2 text-sm text-[color:var(--color-ink-muted)]">
-              ชื่อทางการค้า:{" "}
-              <span className="font-medium text-[color:var(--color-ink)]">
-                {fm.brand_names.join(", ")}
-              </span>
-            </p>
-          )}
-          <p className="mt-4 text-[color:var(--color-ink-muted)] leading-[1.85]">
-            {fm.short_desc}
-          </p>
+      <header className="border-b border-[color:var(--color-rule-strong)] pb-8">
+        <div className="flex flex-wrap items-center gap-x-4 gap-y-2">
+          <span
+            className="cat-tag"
+            style={{ ["--cat-tag-color" as string]: theme.color }}
+          >
+            {theme.label}
+          </span>
+          <span className="text-xs text-[color:var(--color-ink-soft)]">
+            {DIFFICULTY_LABEL[fm.difficulty] ?? fm.difficulty}
+          </span>
         </div>
+        <h1 className="mt-4 text-4xl font-semibold leading-[1.1] tracking-tight md:text-5xl">
+          {fm.name_th}
+        </h1>
+        <p className="mt-2 text-2xl font-normal italic leading-snug text-[color:var(--color-ink-soft)]">
+          {fm.name_en}
+        </p>
+        {fm.brand_names.length > 0 && (
+          <p className="mt-4 text-sm text-[color:var(--color-ink-muted)]">
+            ชื่อทางการค้า:{" "}
+            <span className="text-base text-[color:var(--color-ink)]">
+              {fm.brand_names.join(", ")}
+            </span>
+          </p>
+        )}
+        <p className="mt-6 max-w-[60ch] text-lg leading-[1.85] text-[color:var(--color-ink-muted)]">
+          {fm.short_desc}
+        </p>
       </header>
 
-      <div className="mt-10">
+      <div className="mt-12">
         <Mdx />
       </div>
 
-      <footer className="mt-12 border-t border-[color:var(--color-rule)] pt-4 text-xs text-[color:var(--color-ink-soft)]">
-        อัปเดตล่าสุด: {fm.updated}
+      <footer className="mt-16 border-t border-[color:var(--color-rule)] pt-4 text-xs text-[color:var(--color-ink-soft)]">
+        อัปเดตล่าสุด {fm.updated}
       </footer>
     </article>
   );

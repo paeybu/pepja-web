@@ -6,15 +6,13 @@ import { SourceBox } from "@/components/mdx/SourceBox";
 
 const components: MDXComponents = {
   h1: ({ children }) => (
-    <h1 className="mt-2 mb-6 text-3xl font-semibold leading-tight tracking-tight md:text-4xl">
+    <h1 className="mt-2 mb-6 text-4xl font-semibold leading-[1.1] tracking-tight md:text-5xl">
       {children}
     </h1>
   ),
   h2: ({ children }) => (
-    <h2 className="mt-10 mb-4 text-2xl font-semibold leading-snug tracking-tight">
-      <span className="bg-gradient-to-r from-[color:var(--color-ink)] to-[color:var(--color-ink-muted)] bg-clip-text text-transparent">
-        {children}
-      </span>
+    <h2 className="mt-12 mb-4 border-t border-[color:var(--color-rule)] pt-8 text-2xl font-semibold leading-snug tracking-tight">
+      {children}
     </h2>
   ),
   h3: ({ children }) => (
@@ -22,41 +20,34 @@ const components: MDXComponents = {
       {children}
     </h3>
   ),
-  p: ({ children }) => <p className="my-4 leading-[1.85]">{children}</p>,
+  p: ({ children }) => (
+    <p className="my-5 max-w-[68ch] leading-[1.85]">{children}</p>
+  ),
   ul: ({ children }) => (
-    <ul className="my-4 list-disc space-y-1 pl-6 leading-[1.85] marker:text-[color:var(--color-brand)]">
+    <ul className="my-5 max-w-[68ch] list-disc space-y-2 pl-6 leading-[1.85] marker:text-[color:var(--color-brand)]">
       {children}
     </ul>
   ),
   ol: ({ children }) => (
-    <ol className="my-4 list-decimal space-y-1 pl-6 leading-[1.85] marker:font-semibold marker:text-[color:var(--color-brand)]">
+    <ol className="my-5 max-w-[68ch] list-decimal space-y-2 pl-6 leading-[1.85] marker:font-mono marker:font-medium marker:text-[color:var(--color-brand)]">
       {children}
     </ol>
   ),
   a: ({ href, children }) => (
-    <a
-      href={href}
-      className="font-medium text-[color:var(--color-brand)] underline decoration-[color:var(--color-brand-soft)] decoration-2 underline-offset-4 transition-colors hover:decoration-[color:var(--color-brand)]"
-    >
+    <a href={href} className="editorial-link text-[color:var(--color-brand)]">
       {children}
     </a>
   ),
   hr: () => (
-    <hr
-      className="my-10 h-px border-0"
-      style={{
-        background:
-          "linear-gradient(90deg, transparent, var(--color-rule-strong), transparent)",
-      }}
-    />
+    <hr className="my-12 border-0 border-t border-[color:var(--color-rule-strong)]" />
   ),
   blockquote: ({ children }) => (
-    <blockquote className="my-6 rounded-r-lg border-l-4 border-[color:var(--color-brand)] bg-[color:var(--color-paper-muted)] py-3 pl-5 pr-4 text-[color:var(--color-ink-muted)] italic">
+    <blockquote className="my-8 border-y border-[color:var(--color-rule-strong)] py-4 text-lg leading-[1.85] italic text-[color:var(--color-ink-muted)]">
       {children}
     </blockquote>
   ),
   code: ({ children }) => (
-    <code className="rounded bg-[color:var(--color-paper-muted)] px-1.5 py-0.5 font-mono text-[0.9em] text-[color:var(--color-brand-ink)]">
+    <code className="rounded-sm bg-[color:var(--color-paper-muted)] px-1.5 py-0.5 font-mono text-[0.9em] text-[color:var(--color-brand-ink)]">
       {children}
     </code>
   ),

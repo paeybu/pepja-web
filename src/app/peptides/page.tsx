@@ -13,61 +13,46 @@ export default function PeptidesIndexPage() {
 
   return (
     <article>
-      <header className="pb-8">
-        <span
-          className="chip text-[color:var(--color-brand-ink)]"
-          style={{ background: "var(--color-brand-soft)" }}
-        >
-          เปปไทด์
-        </span>
-        <h1 className="mt-4 text-3xl font-semibold leading-tight tracking-tight md:text-4xl">
+      <header className="pb-10">
+        <p className="eyebrow">ดัชนี</p>
+        <h1 className="mt-4 text-4xl font-semibold leading-[1.1] tracking-tight md:text-5xl">
           เปปไทด์ทั้งหมด
         </h1>
-        <p className="mt-3 text-[color:var(--color-ink-muted)]">
-          รายการเปปไทด์ที่เราเขียนถึง — เลือกตัวที่คุณสนใจ
+        <p className="mt-4 max-w-[58ch] text-base leading-[1.85] text-[color:var(--color-ink-muted)]">
+          รายการเปปไทด์ที่เราเขียนถึง เลือกตัวที่คุณสนใจ
+          แต่ละหน้ามีกลไก โดส ผลข้างเคียง และหมายเหตุเรื่องการสั่งซื้อในไทย
         </p>
       </header>
 
-      <ul className="mt-4 grid gap-3 md:grid-cols-2">
+      <ul>
         {peptides.map((p) => {
           const theme = getPeptideTheme(p.category);
           return (
             <li key={p.slug}>
               <Link
                 href={`/peptides/${p.slug}`}
-                className="card-surface group block h-full overflow-hidden p-5"
+                className="index-row group"
               >
-                <div
-                  className="h-1 -mx-5 -mt-5 mb-4"
-                  style={{
-                    background: `linear-gradient(90deg, ${theme.color}, color-mix(in oklab, ${theme.color} 30%, transparent))`,
-                  }}
-                />
-                <div className="flex flex-wrap items-center gap-2">
-                  <span
-                    className="chip"
-                    style={{ color: theme.color, background: theme.soft }}
-                  >
-                    {theme.label}
-                  </span>
-                  <span className="text-[10px] font-medium uppercase tracking-wider text-[color:var(--color-ink-soft)]">
+                <div>
+                  <h2 className="text-xl font-semibold leading-snug tracking-tight transition-colors group-hover:text-[color:var(--color-brand)]">
+                    {p.name_th}{" "}
+                    <span className="text-base font-normal italic text-[color:var(--color-ink-soft)]">
+                      {p.name_en}
+                    </span>
+                  </h2>
+                  <p className="mt-2 max-w-[60ch] text-sm leading-[1.75] text-[color:var(--color-ink-muted)]">
+                    {p.short_desc}
+                  </p>
+                  <p className="mt-2 text-xs text-[color:var(--color-ink-soft)]">
                     {DIFFICULTY_LABEL[p.difficulty] ?? p.difficulty}
-                  </span>
+                  </p>
                 </div>
-                <h2
-                  className="mt-3 text-lg font-semibold leading-snug"
-                  style={{ ["--hover-color" as string]: theme.color }}
+                <span
+                  className="cat-tag self-start"
+                  style={{ ["--cat-tag-color" as string]: theme.color }}
                 >
-                  <span className="group-hover:text-[color:var(--hover-color)]">
-                    {p.name_th}
-                  </span>{" "}
-                  <span className="text-sm font-normal text-[color:var(--color-ink-soft)]">
-                    ({p.name_en})
-                  </span>
-                </h2>
-                <p className="mt-2 text-sm leading-[1.75] text-[color:var(--color-ink-muted)]">
-                  {p.short_desc}
-                </p>
+                  {theme.label}
+                </span>
               </Link>
             </li>
           );

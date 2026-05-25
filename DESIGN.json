@@ -1,0 +1,372 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-05-25T00:00:00.000Z",
+  "title": "Design System: Pepja",
+  "extensions": {
+    "colorMeta": {
+      "marginalia-teal": {
+        "role": "primary",
+        "displayName": "Marginalia Teal",
+        "canonical": "oklch(60% 0.10 180)",
+        "tonalRamp": [
+          "#042f2e",
+          "#134e4a",
+          "#115e59",
+          "#0f766e",
+          "#0d9488",
+          "#14b8a6",
+          "#2dd4bf",
+          "#5eead4",
+          "#99f6e4",
+          "#ccfbf1"
+        ]
+      },
+      "notebook-cream": {
+        "role": "neutral",
+        "displayName": "Notebook Cream",
+        "canonical": "oklch(98% 0.005 80)",
+        "tonalRamp": [
+          "#3a3733",
+          "#5c5751",
+          "#8a847b",
+          "#b8b1a3",
+          "#d4cdbb",
+          "#e7e2d6",
+          "#f1efe9",
+          "#fbfaf7",
+          "#ffffff"
+        ]
+      },
+      "notebook-ink": {
+        "role": "neutral",
+        "displayName": "Notebook Ink",
+        "canonical": "oklch(20% 0.02 260)",
+        "tonalRamp": [
+          "#020617",
+          "#0f172a",
+          "#1e293b",
+          "#334155",
+          "#475569",
+          "#64748b",
+          "#94a3b8",
+          "#cbd5e1",
+          "#e2e8f0",
+          "#f1f5f9"
+        ]
+      },
+      "glp1-rose": {
+        "role": "secondary",
+        "displayName": "GLP-1 Rose",
+        "canonical": "oklch(58% 0.21 17)",
+        "tonalRamp": [
+          "#4c0519",
+          "#881337",
+          "#9f1239",
+          "#be123c",
+          "#e11d48",
+          "#f43f5e",
+          "#fb7185",
+          "#fda4af",
+          "#fecdd3",
+          "#ffe4e6"
+        ]
+      },
+      "healing-emerald": {
+        "role": "secondary",
+        "displayName": "Healing Emerald",
+        "canonical": "oklch(58% 0.17 162)",
+        "tonalRamp": [
+          "#022c22",
+          "#064e3b",
+          "#065f46",
+          "#047857",
+          "#059669",
+          "#10b981",
+          "#34d399",
+          "#6ee7b7",
+          "#a7f3d0",
+          "#d1fae5"
+        ]
+      },
+      "growth-amber": {
+        "role": "secondary",
+        "displayName": "Growth Amber",
+        "canonical": "oklch(66% 0.16 60)",
+        "tonalRamp": [
+          "#451a03",
+          "#78350f",
+          "#92400e",
+          "#b45309",
+          "#d97706",
+          "#f59e0b",
+          "#fbbf24",
+          "#fcd34d",
+          "#fde68a",
+          "#fef3c7"
+        ]
+      },
+      "longevity-violet": {
+        "role": "secondary",
+        "displayName": "Longevity Violet",
+        "canonical": "oklch(52% 0.25 290)",
+        "tonalRamp": [
+          "#2e1065",
+          "#4c1d95",
+          "#5b21b6",
+          "#6d28d9",
+          "#7c3aed",
+          "#8b5cf6",
+          "#a78bfa",
+          "#c4b5fd",
+          "#ddd6fe",
+          "#ede9fe"
+        ]
+      },
+      "cosmetic-magenta": {
+        "role": "secondary",
+        "displayName": "Cosmetic Magenta",
+        "canonical": "oklch(58% 0.22 350)",
+        "tonalRamp": [
+          "#500724",
+          "#831843",
+          "#9d174d",
+          "#be185d",
+          "#db2777",
+          "#ec4899",
+          "#f472b6",
+          "#f9a8d4",
+          "#fbcfe8",
+          "#fce7f3"
+        ]
+      },
+      "howto-blue": {
+        "role": "tertiary",
+        "displayName": "How-to Blue",
+        "canonical": "oklch(56% 0.20 260)",
+        "tonalRamp": [
+          "#172554",
+          "#1e3a8a",
+          "#1e40af",
+          "#1d4ed8",
+          "#2563eb",
+          "#3b82f6",
+          "#60a5fa",
+          "#93c5fd",
+          "#bfdbfe",
+          "#dbeafe"
+        ]
+      },
+      "safety-red": {
+        "role": "tertiary",
+        "displayName": "Safety Red",
+        "canonical": "oklch(57% 0.22 27)",
+        "tonalRamp": [
+          "#450a0a",
+          "#7f1d1d",
+          "#991b1b",
+          "#b91c1c",
+          "#dc2626",
+          "#ef4444",
+          "#f87171",
+          "#fca5a5",
+          "#fecaca",
+          "#fee2e2"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Home-page hero only. One per page maximum."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Page H1 on every non-home page."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Section H2 in long-form articles."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Default reading face. 1.85 leading is required for Thai script."
+      },
+      "body-large": {
+        "displayName": "Body Large",
+        "purpose": "Lead paragraphs under hero or section headers."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Eyebrow text, chip labels, table headers. Uppercase, 0.2em tracking."
+      },
+      "mono": {
+        "displayName": "Mono",
+        "purpose": "Dose values in DoseTable, inline code. Sized 0.9em to not protrude."
+      }
+    },
+    "shadows": [
+      {
+        "name": "resting-card",
+        "value": "0 1px 2px 0 rgb(15 23 42 / 0.04), 0 1px 3px 0 rgb(15 23 42 / 0.06)",
+        "purpose": "Default card grounding. Nearly invisible. The cream-to-white tonal step does most of the elevation work."
+      },
+      {
+        "name": "lifted-card",
+        "value": "0 10px 30px -10px rgb(15 23 42 / 0.18), 0 4px 10px -4px rgb(15 23 42 / 0.1)",
+        "purpose": "Diffuse hover shadow under cards. Applied with a 2px upward translate on hover and focus."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-default",
+        "value": "200ms ease",
+        "purpose": "Default state transitions on cards, buttons, chips."
+      },
+      {
+        "name": "lift-translate",
+        "value": "translateY(-2px)",
+        "purpose": "Card hover lift. Pairs with lifted-card shadow."
+      }
+    ],
+    "breakpoints": [
+      { "name": "sm", "value": "640px" },
+      { "name": "md", "value": "768px" },
+      { "name": "lg", "value": "1024px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Filled teal pill. Used once per page on the dominant call to action.",
+      "html": "<button class=\"ds-btn-primary\">เริ่มที่นี่ <span aria-hidden=\"true\">→</span></button>",
+      "css": ".ds-btn-primary { display: inline-flex; align-items: center; gap: 0.5rem; background: #0d9488; color: #ffffff; font-family: 'IBM Plex Sans Thai Looped', ui-sans-serif, system-ui, sans-serif; font-size: 0.875rem; font-weight: 600; padding: 0.625rem 1.25rem; border: none; border-radius: 9999px; cursor: pointer; transition: transform 200ms ease, box-shadow 200ms ease, background 200ms ease; } .ds-btn-primary:hover { background: #0f766e; transform: translateY(-2px); box-shadow: 0 10px 20px -10px rgb(15 23 42 / 0.25); } .ds-btn-primary:focus-visible { outline: 2px solid #0d9488; outline-offset: 3px; }"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Outline pill with teal-hover. Used for the secondary path next to the primary CTA.",
+      "html": "<button class=\"ds-btn-secondary\">ดูเปปไทด์ทั้งหมด</button>",
+      "css": ".ds-btn-secondary { display: inline-flex; align-items: center; gap: 0.5rem; background: transparent; color: #0f172a; font-family: 'IBM Plex Sans Thai Looped', ui-sans-serif, system-ui, sans-serif; font-size: 0.875rem; font-weight: 600; padding: 0.5625rem 1.1875rem; border: 1px solid #d4cdbb; border-radius: 9999px; cursor: pointer; transition: border-color 200ms ease, color 200ms ease; } .ds-btn-secondary:hover { border-color: #0d9488; color: #0d9488; } .ds-btn-secondary:focus-visible { outline: 2px solid #0d9488; outline-offset: 3px; }"
+    },
+    {
+      "name": "Category Chip",
+      "kind": "chip",
+      "refersTo": "chip-brand",
+      "description": "Pill chip with a leading dot and uppercase wide-tracked label. The default brand variant uses Marginalia Teal; category variants swap to the matching -soft and saturated colors.",
+      "html": "<span class=\"ds-chip\">GLP-1</span>",
+      "css": ".ds-chip { display: inline-flex; align-items: center; gap: 0.375rem; background: #ccfbf1; color: #0f766e; font-family: 'IBM Plex Sans Thai Looped', ui-sans-serif, system-ui, sans-serif; font-size: 0.6875rem; font-weight: 600; line-height: 1.6; letter-spacing: 0.05em; text-transform: uppercase; padding: 0.125rem 0.625rem; border-radius: 9999px; } .ds-chip::before { content: \"\"; width: 0.375rem; height: 0.375rem; border-radius: 9999px; background: currentColor; }"
+    },
+    {
+      "name": "Category Card",
+      "kind": "card",
+      "refersTo": "card",
+      "description": "Index card for a peptide or guide. Top gradient stripe carries the category color; chip and title repeat it. Lifts on hover.",
+      "html": "<a class=\"ds-card\" href=\"#\"><div class=\"ds-card__stripe\"></div><span class=\"ds-card__chip\">GLP-1</span><h3 class=\"ds-card__title\">เซมากลูไทด์ (Semaglutide)</h3><p class=\"ds-card__body\">ตัวยายอดนิยมสำหรับลดน้ำหนัก กลไก โดสเริ่มต้น ผลข้างเคียง</p><span class=\"ds-card__cta\">อ่านต่อ <span aria-hidden=\"true\">→</span></span></a>",
+      "css": ".ds-card { position: relative; display: block; background: #ffffff; color: #0f172a; border: 1px solid #e7e2d6; border-radius: 1rem; padding: 1.25rem; overflow: hidden; text-decoration: none; box-shadow: 0 1px 2px 0 rgb(15 23 42 / 0.04), 0 1px 3px 0 rgb(15 23 42 / 0.06); transition: transform 200ms ease, box-shadow 200ms ease, border-color 200ms ease; font-family: 'IBM Plex Sans Thai Looped', ui-sans-serif, system-ui, sans-serif; } .ds-card:hover { transform: translateY(-2px); border-color: #d4cdbb; box-shadow: 0 10px 30px -10px rgb(15 23 42 / 0.18), 0 4px 10px -4px rgb(15 23 42 / 0.1); } .ds-card__stripe { position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, #e11d48, rgba(225, 29, 72, 0.3)); } .ds-card__chip { display: inline-flex; align-items: center; gap: 0.375rem; background: #ffe4e6; color: #e11d48; font-size: 0.6875rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; padding: 0.125rem 0.625rem; border-radius: 9999px; margin-top: 0.75rem; } .ds-card__chip::before { content: \"\"; width: 0.375rem; height: 0.375rem; border-radius: 9999px; background: currentColor; } .ds-card__title { font-size: 1.125rem; font-weight: 600; line-height: 1.35; margin: 0.75rem 0 0; transition: color 200ms ease; } .ds-card:hover .ds-card__title { color: #e11d48; } .ds-card__body { color: #475569; font-size: 0.875rem; line-height: 1.75; margin: 0.5rem 0 0; } .ds-card__cta { display: inline-flex; align-items: center; gap: 0.25rem; color: #e11d48; font-size: 0.875rem; font-weight: 500; margin-top: 1rem; transition: transform 200ms ease; } .ds-card:hover .ds-card__cta { transform: translateX(2px); }"
+    },
+    {
+      "name": "Warning Callout",
+      "kind": "custom",
+      "refersTo": "callout",
+      "description": "MDX callout. Three variants share the shape; Warning uses Safety Red. Top stripe, icon tile, label, body.",
+      "html": "<aside class=\"ds-callout ds-callout--warning\" role=\"note\"><div class=\"ds-callout__stripe\"></div><div class=\"ds-callout__row\"><span class=\"ds-callout__icon\" aria-hidden=\"true\"><svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/><line x1=\"12\" y1=\"9\" x2=\"12\" y2=\"13\"/><line x1=\"12\" y1=\"17\" x2=\"12.01\" y2=\"17\"/></svg></span><div><p class=\"ds-callout__label\">ระวัง</p><div class=\"ds-callout__body\">อย่าใช้เปปไทด์ที่ผ่านวันหมดอายุ และเก็บในตู้เย็นเท่านั้น</div></div></div></aside>",
+      "css": ".ds-callout { position: relative; background: #ffffff; border: 1px solid #e7e2d6; border-radius: 1rem; overflow: hidden; margin: 1.5rem 0; font-family: 'IBM Plex Sans Thai Looped', ui-sans-serif, system-ui, sans-serif; } .ds-callout__stripe { height: 4px; background: linear-gradient(90deg, #dc2626, rgba(220, 38, 38, 0.3)); } .ds-callout--important .ds-callout__stripe { background: linear-gradient(90deg, #0d9488, rgba(13, 148, 136, 0.3)); } .ds-callout--tip .ds-callout__stripe { background: linear-gradient(90deg, #2563eb, rgba(37, 99, 235, 0.3)); } .ds-callout__row { display: flex; gap: 0.75rem; padding: 1rem; } .ds-callout__icon { display: inline-flex; align-items: center; justify-content: center; width: 1.75rem; height: 1.75rem; flex-shrink: 0; border-radius: 0.5rem; background: #fee2e2; color: #dc2626; } .ds-callout--important .ds-callout__icon { background: #ccfbf1; color: #0d9488; } .ds-callout--tip .ds-callout__icon { background: #dbeafe; color: #2563eb; } .ds-callout__label { margin: 0; font-size: 0.6875rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; color: #dc2626; } .ds-callout--important .ds-callout__label { color: #0d9488; } .ds-callout--tip .ds-callout__label { color: #2563eb; } .ds-callout__body { margin-top: 0.25rem; font-size: 1rem; line-height: 1.75; color: #0f172a; }"
+    },
+    {
+      "name": "Dose Pill",
+      "kind": "custom",
+      "refersTo": "card",
+      "description": "Mono-set dose value pill used in DoseTable cells. The visual anchor for load-bearing dose data.",
+      "html": "<span class=\"ds-dose\">0.25 mg</span>",
+      "css": ".ds-dose { display: inline-block; background: #ccfbf1; color: #0f766e; font-family: 'Geist Mono', ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.875rem; padding: 0.125rem 0.5rem; border-radius: 0.375rem; }"
+    },
+    {
+      "name": "Nav Logo",
+      "kind": "nav",
+      "refersTo": "card",
+      "description": "Brand mark in the sticky header: 28px gradient glyph that rotates 6deg on hover, plus the Thai wordmark.",
+      "html": "<a class=\"ds-logo\" href=\"/\"><span class=\"ds-logo__glyph\" aria-hidden=\"true\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 17 17 7\"/><circle cx=\"7\" cy=\"17\" r=\"3\"/><circle cx=\"17\" cy=\"7\" r=\"3\"/></svg></span><span class=\"ds-logo__word\">เปปจาพอร์ทัล</span></a>",
+      "css": ".ds-logo { display: inline-flex; align-items: center; gap: 0.5rem; color: #0f172a; text-decoration: none; font-family: 'IBM Plex Sans Thai Looped', ui-sans-serif, system-ui, sans-serif; font-weight: 600; letter-spacing: -0.005em; } .ds-logo__glyph { display: inline-flex; align-items: center; justify-content: center; width: 1.75rem; height: 1.75rem; border-radius: 0.5rem; background: linear-gradient(135deg, #0d9488, #7c3aed); color: #ffffff; box-shadow: 0 1px 2px rgb(15 23 42 / 0.1); transition: transform 200ms ease; } .ds-logo:hover .ds-logo__glyph { transform: rotate(6deg); }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Reader's Notebook",
+    "overview": "Pepja's surface is a reader's notebook. Warm cream page, ruled lines in restrained warm gray, marginalia in teal, color-coded tabs along the edge for category at a glance. The aesthetic descends from gray.guide and Stairway to Gray, two community-written harm-reduction references where the writing is the product and the page exists to amplify reading. The system carries that posture into Thai, with a Thai-optimized body face (IBM Plex Sans Thai Looped) set at 1.85 leading so the script breathes correctly. The personality is lifted and responsive without being app-like. Card surfaces rest nearly flat and lift on touch. Components recede when not needed; color is wayfinding, not decoration. Every peptide category and guide type owns a hue so a reader can orient by glance. Dark mode is a first-class theme designed for late-night phone reading, not an afterthought toggle.",
+    "keyCharacteristics": [
+      "Warm cream paper, never pure white in non-card surfaces.",
+      "One reader-friendly Thai face across every type role; weight varies, family does not.",
+      "Color coded by content category; ten named hues that always carry meaning.",
+      "Cards rest flat and lift on hover with diffuse shadow.",
+      "Mobile-first reading rhythm with 1.85 body leading."
+    ],
+    "rules": [
+      {
+        "name": "The Category-Color Rule",
+        "body": "Every peptide category and every guide category owns one hue. The hue appears on the index card (top-stripe and chip), on the detail-page header (top-stripe and blurred backdrop blob), and on the in-text chip. Nowhere else. A reader who learns that violet means longevity learns it once.",
+        "section": "colors"
+      },
+      {
+        "name": "The Cream-Not-White Rule",
+        "body": "The page background is Notebook Cream (#fbfaf7), never Page White. Page White is reserved for elevated card and hero surfaces. The tonal step from cream to white is how depth is conveyed without shadow at rest.",
+        "section": "colors"
+      },
+      {
+        "name": "The One-Voice Rule",
+        "body": "Marginalia Teal is the only brand color. Category colors identify content; they do not represent the brand. A new component that needs a default accent uses teal, not a category color.",
+        "section": "colors"
+      },
+      {
+        "name": "The 1.85 Rule",
+        "body": "Body line-height is 1.85, not the Latin-default 1.5. Thai script ascends and descends further than Latin; tighter leading collides characters and reads as cramped.",
+        "section": "typography"
+      },
+      {
+        "name": "The Looped Rule",
+        "body": "Only the looped variant of IBM Plex Sans Thai is acceptable. The loopless variant fails the brand-personality test (cold, computational) and is harder for Thai readers at long reading lengths.",
+        "section": "typography"
+      },
+      {
+        "name": "The One-Face Rule",
+        "body": "One family across display, body, label. Weight, size, and tracking carry every hierarchical signal. No serif display, no second sans for polish.",
+        "section": "typography"
+      },
+      {
+        "name": "The Flat-By-Default Rule",
+        "body": "Cards rest nearly flat. Lift is a response to state (hover, focus), never a resting decoration. A card with a heavy resting shadow is the SaaS-template tell from PRODUCT.md and is forbidden.",
+        "section": "elevation"
+      },
+      {
+        "name": "The No-Glow-On-Text Rule",
+        "body": "Text never carries shadow, glow, or text-shadow of any kind. Glow-on-headings is the supplement-bro tell.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do use Marginalia Teal (#0d9488) as the only brand color. Category colors identify content, not the brand.",
+      "Do set body line-height to 1.85 for Thai script. Tighter leading collides characters and reads as cramped.",
+      "Do carry the category color through index card (top-stripe and chip), detail-page header (top-stripe and blurred backdrop blob), and active states. Nowhere else.",
+      "Do use Page White only for elevated card surfaces. Page backgrounds are Notebook Cream.",
+      "Do lift cards on hover by translating up 2px and transitioning to the diffuse Lifted Card shadow.",
+      "Do keep buttons pill-shaped (9999px radius) across primary, secondary, and utility variants.",
+      "Do test every layout at phone width first. PRODUCT.md commits to mobile-first as the baseline.",
+      "Do match dark-mode contrast to light mode. Dark is not a dim afterthought, it is a first-class theme."
+    ],
+    "donts": [
+      "Don't use any side-stripe (border-left or border-right greater than 1px as a colored accent) on cards or callouts. Use a top-edge gradient stripe instead.",
+      "Don't apply gradient backgrounds clipped to text (background-clip: text over a gradient). Use solid Marginalia Teal or Notebook Ink. Emphasis is carried by weight and size. The current homepage .gradient-text utility is a deviation, flag and remediate.",
+      "Don't decorate with glassmorphism. The one allowed blur is the sticky-nav backdrop, which is functional, not decorative.",
+      "Don't build the hero-metric template (big number, small label, supporting stats). Pepja is editorial, not a SaaS dashboard. PRODUCT.md anti-reference: Generic AI-template SaaS.",
+      "Don't build identical three-up icon-card grids. If three cards must appear together, they must differ in role, color, and content shape. PRODUCT.md anti-reference: Generic AI-template SaaS.",
+      "Don't use red warning blocks on every page. Safety Red is reserved for genuine safety callouts and the disclaimer. Overusing red collapses into the fearmongering-blog tell. PRODUCT.md anti-reference: Fearmongering health blogs.",
+      "Don't use loud all-caps BUY NOW, urgency banners, transformation photos, or testosterone-bro voice. PRODUCT.md anti-reference: Hype supplement and bro-science sites.",
+      "Don't introduce a second font family. Weight and size are the only hierarchy controls.",
+      "Don't use pure #000 or #fff for text or borders. Neutrals are tinted toward Marginalia Teal.",
+      "Don't apply heavy resting shadows on cards. Shadows are a response to state, not a default.",
+      "Don't use the loopless IBM Plex Sans Thai variant. Only the looped variant.",
+      "Don't use em dashes in UI copy or article body. Use commas, colons, semicolons, periods, or parentheses."
+    ]
+  }
+}

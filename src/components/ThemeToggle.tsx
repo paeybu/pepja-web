@@ -23,7 +23,7 @@ export function ThemeToggle() {
       onClick={handleClick}
       aria-label="สลับโหมดมืด/สว่าง"
       title="สลับโหมดมืด/สว่าง"
-      className="theme-toggle inline-flex h-8 w-8 items-center justify-center rounded-full border border-[color:var(--color-rule)] bg-[color:var(--color-surface)] text-[color:var(--color-ink-muted)] transition-colors hover:border-[color:var(--color-brand)] hover:text-[color:var(--color-brand)]"
+      className="theme-toggle inline-flex h-6 w-6 items-center justify-center text-[color:var(--color-ink-soft)] transition-colors hover:text-[color:var(--color-brand)]"
     >
       <SunIcon className="theme-toggle__sun" />
       <MoonIcon className="theme-toggle__moon" />
@@ -35,8 +35,8 @@ function SunIcon({ className }: { className?: string }) {
   return (
     <svg
       className={className}
-      width="16"
-      height="16"
+      width="14"
+      height="14"
       viewBox="0 0 24 24"
       fill="none"
       stroke="currentColor"
@@ -55,8 +55,8 @@ function MoonIcon({ className }: { className?: string }) {
   return (
     <svg
       className={className}
-      width="16"
-      height="16"
+      width="14"
+      height="14"
       viewBox="0 0 24 24"
       fill="none"
       stroke="currentColor"
