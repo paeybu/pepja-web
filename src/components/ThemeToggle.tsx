@@ -23,7 +23,7 @@ export function ThemeToggle() {
       onClick={handleClick}
       aria-label="สลับโหมดมืด/สว่าง"
       title="สลับโหมดมืด/สว่าง"
-      className="theme-toggle inline-flex h-8 w-8 items-center justify-center rounded border border-[color:var(--color-rule)] text-[color:var(--color-ink-muted)] transition-colors hover:text-[color:var(--color-ink)]"
+      className="theme-toggle inline-flex h-8 w-8 items-center justify-center rounded-full border border-[color:var(--color-rule)] bg-[color:var(--color-surface)] text-[color:var(--color-ink-muted)] transition-colors hover:border-[color:var(--color-brand)] hover:text-[color:var(--color-brand)]"
     >
       <SunIcon className="theme-toggle__sun" />
       <MoonIcon className="theme-toggle__moon" />
